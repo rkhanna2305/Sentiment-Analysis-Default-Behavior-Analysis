@@ -1,0 +1,1001 @@
+Customer ID,Age,Region,Review,Payment Status,Date
+CUST65482,65,West,I appreciate the bank's patience.,On Time,13-11-2022 22:54:17
+CUST32659,33,South,I'm trying to catch up with my payments soon.,Defaulted,21-08-2020 07:52:41
+CUST83224,20,Central,I have some pending payments.,Defaulted,17-03-2024 10:33:30
+CUST57474,18,East,I have some pending payments.,On Time,16-07-2022 04:14:04
+CUST50725,68,Central,The interest rates are too high!,Defaulted,19-11-2020 07:08:07
+CUST93784,75,Central,I need more time to manage my finances.,On Time,02-03-2024 21:28:49
+CUST39636,38,North,I appreciate the bank's patience.,On Time,18-12-2022 14:53:06
+CUST21332,67,South,Please update me on my payment schedule.,Defaulted,09-09-2023 16:19:09
+CUST99576,69,North,The interest rates are too high!,On Time,31-08-2024 07:25:33
+CUST28164,41,East,I cannot keep up with the payments anymore.,Defaulted,27-03-2022 07:37:54
+CUST63450,21,East,I have some pending payments.,On Time,05-11-2021 01:20:30
+CUST18001,23,East,I need more time to manage my finances.,Defaulted,17-07-2022 17:52:14
+CUST49277,38,North,I cannot keep up with the payments anymore.,Defaulted,24-07-2024 15:44:38
+CUST53214,34,Central,I appreciate the bank's patience.,On Time,30-04-2024 17:30:25
+CUST29202,36,North,I need more time to manage my finances.,On Time,08-01-2020 03:06:52
+CUST94468,57,Central,Things are improving; I'll make a payment shortly.,On Time,21-03-2020 21:42:09
+CUST81409,50,Central,I need more time to manage my finances.,Defaulted,11-01-2023 14:27:46
+CUST22308,29,South,I have some pending payments.,On Time,23-12-2022 20:07:05
+CUST16921,55,West,Please update me on my payment schedule.,Defaulted,17-03-2021 01:16:09
+CUST20005,24,East,I cannot keep up with the payments anymore.,Defaulted,06-11-2021 23:27:18
+CUST81630,33,South,Please update me on my payment schedule.,Defaulted,28-12-2024 04:37:25
+CUST81267,55,South,I need more time to manage my finances.,Defaulted,25-11-2023 03:26:37
+CUST50217,33,North,I'm trying to catch up with my payments soon.,Defaulted,29-11-2024 05:40:45
+CUST39252,73,West,I appreciate the bank's patience.,On Time,14-01-2023 16:31:47
+CUST51779,68,East,I'm trying to catch up with my payments soon.,On Time,30-01-2021 01:05:53
+CUST58894,18,East,I'm trying to catch up with my payments soon.,Defaulted,06-04-2020 18:57:48
+CUST80895,44,South,Please update me on my payment schedule.,On Time,28-07-2020 17:53:24
+CUST18097,37,West,I appreciate the bank's patience.,Defaulted,08-01-2024 08:18:57
+CUST32202,42,East,I appreciate the bank's patience.,Defaulted,22-08-2023 17:24:23
+CUST15798,19,East,I have some pending payments.,Defaulted,04-07-2022 05:15:08
+CUST65694,68,East,I cannot keep up with the payments anymore.,On Time,07-12-2020 16:55:01
+CUST45330,48,East,Things are improving; I'll make a payment shortly.,Defaulted,22-04-2022 14:37:14
+CUST55113,39,East,The interest rates are too high!,Defaulted,23-05-2022 02:39:20
+CUST56800,67,South,I cannot keep up with the payments anymore.,On Time,12-08-2020 00:01:39
+CUST51056,25,North,Things are improving; I'll make a payment shortly.,On Time,07-09-2024 01:48:06
+CUST20743,39,East,I'm frustrated with the late fees.,On Time,07-07-2020 10:23:42
+CUST63570,52,South,I appreciate the bank's patience.,Defaulted,06-08-2022 00:31:17
+CUST66057,65,South,I appreciate the bank's patience.,On Time,29-12-2024 04:36:04
+CUST65127,26,West,I'm trying to catch up with my payments soon.,Defaulted,13-12-2020 05:06:26
+CUST19694,67,North,Please update me on my payment schedule.,Defaulted,02-12-2024 18:09:07
+CUST20070,45,East,I have some pending payments.,Defaulted,06-07-2024 03:42:45
+CUST64608,25,South,I'm frustrated with the late fees.,On Time,01-08-2020 07:16:45
+CUST18238,67,North,I'm frustrated with the late fees.,Defaulted,26-06-2024 22:56:53
+CUST90599,43,South,I appreciate the bank's patience.,Defaulted,20-03-2020 06:52:01
+CUST51140,48,West,I need more time to manage my finances.,On Time,21-07-2024 04:08:29
+CUST20219,60,West,Things are improving; I'll make a payment shortly.,On Time,08-11-2023 15:56:58
+CUST28199,32,South,I'm trying to catch up with my payments soon.,Defaulted,03-04-2024 18:26:28
+CUST35541,50,Central,I cannot keep up with the payments anymore.,On Time,22-10-2024 23:18:47
+CUST65918,51,North,Please update me on my payment schedule.,On Time,15-04-2021 01:47:52
+CUST95556,22,South,Things are improving; I'll make a payment shortly.,Defaulted,02-06-2022 08:02:19
+CUST12998,23,East,I need more time to manage my finances.,Defaulted,06-06-2023 20:43:01
+CUST48716,36,West,I cannot keep up with the payments anymore.,On Time,27-02-2021 02:29:36
+CUST79480,72,West,The interest rates are too high!,On Time,09-10-2024 13:34:24
+CUST97892,20,Central,I appreciate the bank's patience.,Defaulted,22-11-2021 02:41:08
+CUST40588,19,North,I appreciate the bank's patience.,On Time,26-08-2022 17:27:55
+CUST62593,44,Central,Things are improving; I'll make a payment shortly.,On Time,05-03-2024 14:59:37
+CUST13755,68,East,I'm frustrated with the late fees.,On Time,17-05-2022 18:22:18
+CUST36588,59,South,Things are improving; I'll make a payment shortly.,On Time,12-09-2023 06:09:28
+CUST41529,49,Central,The interest rates are too high!,On Time,06-08-2022 06:43:06
+CUST15146,61,East,I'm frustrated with the late fees.,On Time,23-03-2020 19:59:49
+CUST78678,18,West,The interest rates are too high!,Defaulted,23-01-2022 14:53:24
+CUST85048,75,Central,I have some pending payments.,Defaulted,05-08-2023 03:30:42
+CUST53135,69,East,I'm trying to catch up with my payments soon.,On Time,10-10-2024 13:52:26
+CUST28153,22,South,I need more time to manage my finances.,Defaulted,25-07-2023 14:50:11
+CUST64782,52,South,Things are improving; I'll make a payment shortly.,On Time,10-06-2021 18:58:10
+CUST40607,32,West,I need more time to manage my finances.,On Time,17-12-2021 13:46:07
+CUST40451,18,Central,Please update me on my payment schedule.,On Time,15-09-2024 07:58:49
+CUST84117,41,West,I'm trying to catch up with my payments soon.,On Time,23-07-2024 01:26:01
+CUST50713,62,South,The interest rates are too high!,Defaulted,09-07-2024 16:01:50
+CUST31304,71,East,I cannot keep up with the payments anymore.,On Time,09-06-2023 21:18:54
+CUST51798,40,East,I need more time to manage my finances.,Defaulted,13-09-2021 05:14:34
+CUST17650,71,West,Things are improving; I'll make a payment shortly.,On Time,15-03-2020 16:49:08
+CUST54959,32,South,I need more time to manage my finances.,Defaulted,17-06-2024 13:26:52
+CUST87782,41,Central,Things are improving; I'll make a payment shortly.,On Time,18-01-2022 18:11:51
+CUST71309,70,North,I cannot keep up with the payments anymore.,On Time,22-05-2022 12:23:45
+CUST67997,74,West,I need more time to manage my finances.,On Time,20-07-2022 21:51:28
+CUST29798,47,North,I need more time to manage my finances.,Defaulted,08-07-2024 03:57:47
+CUST88575,58,Central,I'm frustrated with the late fees.,On Time,04-12-2024 13:43:39
+CUST95519,29,East,I cannot keep up with the payments anymore.,On Time,18-11-2023 22:39:04
+CUST95914,37,North,Things are improving; I'll make a payment shortly.,On Time,17-03-2022 10:41:38
+CUST42959,55,East,The interest rates are too high!,On Time,21-08-2020 15:37:13
+CUST42726,47,North,I'm frustrated with the late fees.,On Time,15-11-2022 02:27:21
+CUST11465,18,East,I cannot keep up with the payments anymore.,On Time,19-09-2023 01:30:59
+CUST47362,51,Central,I appreciate the bank's patience.,On Time,22-05-2020 01:44:50
+CUST87640,30,West,Things are improving; I'll make a payment shortly.,On Time,07-02-2024 11:38:22
+CUST89331,29,East,I cannot keep up with the payments anymore.,On Time,11-09-2020 09:52:54
+CUST62602,44,South,Please update me on my payment schedule.,Defaulted,26-01-2024 22:00:14
+CUST65298,41,West,Please update me on my payment schedule.,On Time,05-12-2024 12:17:21
+CUST21093,66,South,Things are improving; I'll make a payment shortly.,On Time,02-06-2021 22:28:02
+CUST25233,48,North,I appreciate the bank's patience.,Defaulted,16-10-2024 21:40:57
+CUST31641,60,West,I cannot keep up with the payments anymore.,On Time,02-12-2021 23:39:49
+CUST53461,61,West,I'm trying to catch up with my payments soon.,Defaulted,05-06-2023 07:57:13
+CUST39000,64,West,I'm frustrated with the late fees.,On Time,06-11-2020 20:55:49
+CUST88997,51,West,I need more time to manage my finances.,Defaulted,30-04-2020 02:47:05
+CUST87647,36,North,I need more time to manage my finances.,On Time,20-04-2021 01:23:54
+CUST28334,56,East,I have some pending payments.,On Time,25-12-2022 20:14:33
+CUST21970,25,North,I'm trying to catch up with my payments soon.,On Time,23-11-2022 01:34:48
+CUST54895,62,East,Please update me on my payment schedule.,Defaulted,23-04-2020 01:38:42
+CUST43681,37,North,Please update me on my payment schedule.,Defaulted,03-10-2024 04:44:31
+CUST16458,48,West,Things are improving; I'll make a payment shortly.,On Time,05-06-2023 18:23:59
+CUST99049,35,North,Things are improving; I'll make a payment shortly.,Defaulted,17-07-2024 02:24:44
+CUST80645,33,North,I'm frustrated with the late fees.,On Time,29-11-2020 18:21:09
+CUST51666,23,West,I appreciate the bank's patience.,On Time,21-07-2024 20:27:12
+CUST24246,31,East,Please update me on my payment schedule.,On Time,11-09-2024 02:09:09
+CUST46637,21,East,Things are improving; I'll make a payment shortly.,On Time,28-11-2021 19:12:38
+CUST63004,30,North,I appreciate the bank's patience.,Defaulted,15-01-2021 07:41:11
+CUST41172,25,East,I appreciate the bank's patience.,On Time,20-08-2024 16:05:38
+CUST77198,41,East,The interest rates are too high!,Defaulted,24-07-2020 10:28:47
+CUST51447,44,South,I cannot keep up with the payments anymore.,On Time,05-10-2023 06:26:01
+CUST93217,20,South,I'm frustrated with the late fees.,On Time,02-05-2024 10:08:31
+CUST99607,45,North,The interest rates are too high!,On Time,20-04-2023 17:22:29
+CUST79030,25,West,I appreciate the bank's patience.,Defaulted,12-07-2021 14:41:11
+CUST45903,38,North,I have some pending payments.,On Time,04-05-2024 14:50:20
+CUST33986,21,North,I need more time to manage my finances.,Defaulted,07-11-2023 17:42:14
+CUST44066,27,East,I appreciate the bank's patience.,On Time,27-06-2024 13:02:06
+CUST13527,41,West,I have some pending payments.,On Time,20-12-2024 02:42:00
+CUST69783,36,South,I'm trying to catch up with my payments soon.,On Time,22-07-2020 05:19:26
+CUST62203,68,North,I'm trying to catch up with my payments soon.,Defaulted,27-08-2022 21:46:26
+CUST73780,41,West,I need more time to manage my finances.,Defaulted,16-09-2022 04:18:17
+CUST62110,32,Central,I have some pending payments.,Defaulted,30-06-2024 05:59:04
+CUST38266,48,East,I appreciate the bank's patience.,Defaulted,05-12-2023 15:58:49
+CUST90050,74,West,I need more time to manage my finances.,On Time,15-09-2023 18:41:10
+CUST42684,58,Central,Please update me on my payment schedule.,On Time,03-08-2022 11:00:18
+CUST84564,29,South,Things are improving; I'll make a payment shortly.,Defaulted,09-04-2022 12:34:07
+CUST72397,63,South,I appreciate the bank's patience.,On Time,16-09-2023 16:15:39
+CUST89359,59,North,I need more time to manage my finances.,Defaulted,22-11-2020 03:42:16
+CUST43672,68,South,Please update me on my payment schedule.,Defaulted,07-07-2020 02:28:12
+CUST68185,33,West,I have some pending payments.,On Time,03-07-2023 16:27:25
+CUST76838,45,South,Things are improving; I'll make a payment shortly.,On Time,23-10-2020 02:29:31
+CUST71799,63,East,I need more time to manage my finances.,On Time,19-06-2022 20:42:28
+CUST70611,37,North,I appreciate the bank's patience.,On Time,25-05-2024 16:15:02
+CUST75582,43,West,Please update me on my payment schedule.,On Time,18-11-2024 23:26:43
+CUST61527,22,Central,I'm trying to catch up with my payments soon.,On Time,24-01-2024 07:12:18
+CUST79021,46,South,I appreciate the bank's patience.,Defaulted,04-02-2020 23:21:53
+CUST87107,69,North,I cannot keep up with the payments anymore.,On Time,11-07-2020 18:10:58
+CUST24651,50,West,The interest rates are too high!,On Time,16-03-2020 20:54:22
+CUST37397,68,North,I appreciate the bank's patience.,Defaulted,14-12-2023 16:21:32
+CUST51802,52,North,I need more time to manage my finances.,Defaulted,23-03-2021 07:45:38
+CUST89060,62,East,Please update me on my payment schedule.,On Time,14-09-2020 01:45:19
+CUST35473,72,South,I cannot keep up with the payments anymore.,Defaulted,24-09-2022 21:53:59
+CUST43878,44,East,I appreciate the bank's patience.,Defaulted,08-02-2022 12:32:51
+CUST92540,55,North,I have some pending payments.,On Time,05-10-2023 16:03:18
+CUST35645,36,North,I need more time to manage my finances.,On Time,26-10-2023 15:41:13
+CUST60767,27,South,I have some pending payments.,On Time,02-10-2024 16:59:13
+CUST68831,18,East,I cannot keep up with the payments anymore.,On Time,07-07-2023 22:55:21
+CUST97870,19,North,I need more time to manage my finances.,On Time,30-03-2022 06:23:53
+CUST22771,54,North,Things are improving; I'll make a payment shortly.,Defaulted,16-05-2021 01:02:21
+CUST18586,23,East,Please update me on my payment schedule.,On Time,07-02-2024 03:39:56
+CUST62383,30,North,I appreciate the bank's patience.,Defaulted,01-02-2021 15:14:42
+CUST22199,27,South,I need more time to manage my finances.,On Time,15-01-2021 09:13:37
+CUST66977,29,East,I have some pending payments.,On Time,08-06-2024 10:16:44
+CUST95034,20,East,I'm trying to catch up with my payments soon.,On Time,20-07-2022 06:10:17
+CUST92072,41,West,I have some pending payments.,Defaulted,12-06-2020 00:24:24
+CUST64627,74,North,I cannot keep up with the payments anymore.,On Time,17-04-2022 19:24:49
+CUST76770,37,West,I have some pending payments.,Defaulted,05-08-2022 06:52:32
+CUST61789,54,South,Things are improving; I'll make a payment shortly.,Defaulted,02-10-2022 23:15:52
+CUST34899,50,Central,I appreciate the bank's patience.,On Time,14-02-2023 00:03:46
+CUST45920,73,East,I cannot keep up with the payments anymore.,Defaulted,16-01-2024 03:47:02
+CUST26687,63,Central,I'm trying to catch up with my payments soon.,On Time,30-04-2024 14:54:00
+CUST34921,49,North,I appreciate the bank's patience.,On Time,29-01-2023 17:50:12
+CUST50615,41,West,I'm frustrated with the late fees.,On Time,09-05-2022 11:44:48
+CUST49453,39,North,I need more time to manage my finances.,On Time,15-04-2021 23:10:49
+CUST13304,54,West,I'm trying to catch up with my payments soon.,On Time,07-09-2022 13:15:12
+CUST80057,73,South,I cannot keep up with the payments anymore.,On Time,13-09-2021 13:33:33
+CUST67149,19,Central,Please update me on my payment schedule.,On Time,22-01-2022 10:13:06
+CUST29358,35,Central,I have some pending payments.,Defaulted,23-06-2021 23:06:26
+CUST30453,32,East,I need more time to manage my finances.,Defaulted,08-05-2021 00:19:18
+CUST20814,68,Central,Please update me on my payment schedule.,On Time,12-02-2021 16:22:30
+CUST86254,75,South,I have some pending payments.,On Time,02-11-2020 06:03:03
+CUST45056,66,North,Things are improving; I'll make a payment shortly.,Defaulted,20-02-2023 02:46:05
+CUST99571,47,East,I appreciate the bank's patience.,Defaulted,15-07-2024 16:31:55
+CUST43540,30,North,I'm frustrated with the late fees.,Defaulted,05-05-2020 00:13:04
+CUST39686,29,West,Please update me on my payment schedule.,Defaulted,29-06-2021 03:46:04
+CUST90090,72,West,I'm trying to catch up with my payments soon.,Defaulted,28-12-2020 18:21:18
+CUST61857,64,North,I have some pending payments.,Defaulted,11-08-2021 03:01:06
+CUST16373,22,Central,I need more time to manage my finances.,Defaulted,24-08-2022 13:42:02
+CUST18872,69,Central,Things are improving; I'll make a payment shortly.,On Time,08-08-2024 14:12:11
+CUST63095,19,North,I need more time to manage my finances.,On Time,16-03-2023 05:24:32
+CUST93428,73,Central,I cannot keep up with the payments anymore.,Defaulted,15-03-2021 07:02:18
+CUST70005,68,East,The interest rates are too high!,Defaulted,23-09-2024 07:03:21
+CUST30185,57,South,The interest rates are too high!,Defaulted,26-12-2020 16:45:42
+CUST46335,39,West,I cannot keep up with the payments anymore.,Defaulted,19-01-2020 09:24:48
+CUST85725,75,North,The interest rates are too high!,On Time,23-06-2021 11:57:56
+CUST46666,23,Central,I appreciate the bank's patience.,On Time,10-10-2022 07:29:09
+CUST13405,47,South,I have some pending payments.,On Time,13-07-2023 18:57:23
+CUST19162,35,South,Please update me on my payment schedule.,On Time,17-02-2024 15:46:53
+CUST94501,20,North,I have some pending payments.,On Time,21-07-2020 14:51:01
+CUST71687,31,West,I cannot keep up with the payments anymore.,Defaulted,08-04-2021 20:50:32
+CUST75380,42,South,I appreciate the bank's patience.,Defaulted,28-05-2020 15:18:26
+CUST43223,30,North,I need more time to manage my finances.,On Time,02-02-2022 09:33:43
+CUST50857,69,East,I cannot keep up with the payments anymore.,Defaulted,02-11-2023 15:49:53
+CUST98137,49,East,I have some pending payments.,On Time,30-09-2024 22:25:58
+CUST38609,28,North,I'm frustrated with the late fees.,On Time,10-07-2024 07:53:00
+CUST45705,39,North,I need more time to manage my finances.,On Time,16-12-2021 19:44:08
+CUST12899,33,West,The interest rates are too high!,Defaulted,16-06-2024 02:01:46
+CUST49067,61,East,The interest rates are too high!,Defaulted,17-11-2022 02:33:06
+CUST15560,66,North,Things are improving; I'll make a payment shortly.,Defaulted,13-03-2024 12:04:25
+CUST75450,66,North,I cannot keep up with the payments anymore.,On Time,31-07-2020 15:44:55
+CUST71576,42,East,I appreciate the bank's patience.,Defaulted,11-02-2022 08:56:32
+CUST24857,68,West,I appreciate the bank's patience.,On Time,19-06-2023 12:15:37
+CUST96482,37,South,Please update me on my payment schedule.,Defaulted,23-07-2022 00:52:52
+CUST22570,75,East,The interest rates are too high!,Defaulted,20-08-2020 05:47:27
+CUST62565,31,West,I cannot keep up with the payments anymore.,On Time,22-02-2020 01:16:26
+CUST14924,43,Central,The interest rates are too high!,Defaulted,16-07-2021 09:37:39
+CUST20334,69,Central,Please update me on my payment schedule.,Defaulted,11-08-2021 23:14:02
+CUST52146,42,North,I need more time to manage my finances.,Defaulted,14-02-2020 02:52:45
+CUST31075,65,South,I'm frustrated with the late fees.,Defaulted,30-01-2023 09:15:43
+CUST34922,23,East,I cannot keep up with the payments anymore.,Defaulted,25-12-2024 10:39:36
+CUST48464,18,East,I appreciate the bank's patience.,Defaulted,31-10-2021 01:44:25
+CUST82578,30,East,Please update me on my payment schedule.,Defaulted,26-10-2023 18:08:32
+CUST90266,67,North,I appreciate the bank's patience.,Defaulted,29-04-2022 09:37:40
+CUST11634,49,North,I cannot keep up with the payments anymore.,On Time,08-11-2023 23:15:26
+CUST86415,46,West,I'm trying to catch up with my payments soon.,On Time,07-02-2021 08:54:32
+CUST51925,29,Central,I cannot keep up with the payments anymore.,On Time,13-06-2022 13:31:12
+CUST23229,24,West,I'm frustrated with the late fees.,On Time,05-09-2021 17:42:47
+CUST99828,46,South,I'm trying to catch up with my payments soon.,On Time,01-12-2022 04:07:31
+CUST67490,75,Central,I have some pending payments.,Defaulted,23-08-2021 19:45:48
+CUST38703,57,North,I'm trying to catch up with my payments soon.,Defaulted,20-10-2020 00:12:26
+CUST55991,57,North,Things are improving; I'll make a payment shortly.,On Time,25-10-2021 15:25:35
+CUST69587,48,Central,I cannot keep up with the payments anymore.,On Time,19-06-2024 23:26:35
+CUST29710,69,Central,The interest rates are too high!,On Time,23-05-2020 12:25:41
+CUST62253,20,South,I need more time to manage my finances.,Defaulted,06-01-2020 07:57:17
+CUST97866,72,North,I have some pending payments.,On Time,12-03-2022 03:05:52
+CUST35845,68,Central,I need more time to manage my finances.,On Time,01-03-2020 09:04:58
+CUST27346,55,North,Things are improving; I'll make a payment shortly.,On Time,02-02-2022 01:12:49
+CUST51447,41,Central,The interest rates are too high!,On Time,03-01-2021 12:48:03
+CUST14864,42,South,I'm frustrated with the late fees.,On Time,21-09-2020 07:59:12
+CUST69137,48,North,I'm frustrated with the late fees.,On Time,12-05-2023 21:44:01
+CUST47625,19,North,I'm frustrated with the late fees.,Defaulted,16-06-2020 18:08:29
+CUST99513,70,Central,Please update me on my payment schedule.,Defaulted,11-02-2021 07:48:40
+CUST80207,75,East,I'm trying to catch up with my payments soon.,On Time,20-01-2022 22:33:38
+CUST70868,75,West,I cannot keep up with the payments anymore.,Defaulted,08-10-2020 18:04:49
+CUST67125,32,East,Please update me on my payment schedule.,On Time,23-12-2022 01:04:23
+CUST28955,28,East,Things are improving; I'll make a payment shortly.,Defaulted,08-08-2023 05:13:16
+CUST26472,55,South,I'm frustrated with the late fees.,Defaulted,19-02-2020 14:59:10
+CUST48317,64,West,The interest rates are too high!,On Time,30-10-2023 12:11:31
+CUST35124,38,West,Please update me on my payment schedule.,On Time,28-04-2021 05:44:03
+CUST59588,63,North,Things are improving; I'll make a payment shortly.,Defaulted,12-09-2024 22:04:18
+CUST49309,45,Central,I need more time to manage my finances.,On Time,21-06-2022 07:25:15
+CUST62927,35,North,Things are improving; I'll make a payment shortly.,On Time,02-06-2021 06:53:13
+CUST11108,68,North,I appreciate the bank's patience.,Defaulted,17-09-2023 15:32:36
+CUST43482,43,North,I cannot keep up with the payments anymore.,Defaulted,04-11-2021 07:35:50
+CUST64647,71,West,I cannot keep up with the payments anymore.,Defaulted,08-03-2023 05:38:01
+CUST39871,48,Central,I have some pending payments.,Defaulted,06-06-2024 21:36:40
+CUST56901,26,Central,I cannot keep up with the payments anymore.,Defaulted,12-04-2022 20:15:56
+CUST36544,59,Central,Please update me on my payment schedule.,Defaulted,31-01-2024 04:17:39
+CUST72457,23,South,I cannot keep up with the payments anymore.,Defaulted,16-11-2021 05:28:21
+CUST94105,31,North,I have some pending payments.,On Time,20-05-2020 14:08:18
+CUST36385,63,South,I cannot keep up with the payments anymore.,On Time,03-06-2023 19:06:23
+CUST33814,62,South,I need more time to manage my finances.,Defaulted,02-04-2022 17:36:28
+CUST43070,75,Central,I'm trying to catch up with my payments soon.,Defaulted,11-04-2020 03:53:39
+CUST60755,63,Central,I need more time to manage my finances.,Defaulted,21-08-2021 13:11:18
+CUST97070,59,North,I'm frustrated with the late fees.,On Time,08-03-2024 09:25:42
+CUST44462,55,Central,The interest rates are too high!,On Time,24-02-2024 11:58:53
+CUST25551,66,East,Things are improving; I'll make a payment shortly.,Defaulted,24-02-2021 12:06:24
+CUST35545,29,North,Things are improving; I'll make a payment shortly.,On Time,10-09-2024 09:28:14
+CUST81110,66,South,I cannot keep up with the payments anymore.,Defaulted,26-02-2021 09:09:24
+CUST85687,27,East,I appreciate the bank's patience.,Defaulted,23-07-2024 19:15:00
+CUST82179,38,South,I need more time to manage my finances.,On Time,28-01-2024 11:39:07
+CUST46723,66,Central,Things are improving; I'll make a payment shortly.,Defaulted,14-05-2024 13:27:55
+CUST51513,39,East,I appreciate the bank's patience.,On Time,16-03-2022 22:02:35
+CUST20836,24,Central,I'm trying to catch up with my payments soon.,Defaulted,20-11-2022 04:21:33
+CUST25943,68,North,I cannot keep up with the payments anymore.,On Time,17-02-2022 16:07:32
+CUST46426,63,East,Things are improving; I'll make a payment shortly.,Defaulted,27-07-2023 05:00:14
+CUST48926,39,West,I cannot keep up with the payments anymore.,On Time,05-08-2020 15:47:26
+CUST10270,34,North,I cannot keep up with the payments anymore.,On Time,03-11-2023 10:07:39
+CUST65457,28,North,I appreciate the bank's patience.,On Time,20-04-2020 00:18:58
+CUST40188,69,South,I need more time to manage my finances.,Defaulted,29-05-2022 23:02:04
+CUST59872,24,South,I'm trying to catch up with my payments soon.,On Time,05-08-2021 08:11:34
+CUST17954,74,South,The interest rates are too high!,Defaulted,07-11-2021 13:11:44
+CUST94262,40,East,The interest rates are too high!,Defaulted,14-06-2020 23:41:17
+CUST60506,32,East,Please update me on my payment schedule.,On Time,26-03-2024 20:33:00
+CUST69439,70,South,I'm trying to catch up with my payments soon.,Defaulted,04-09-2023 10:57:06
+CUST57046,19,South,I cannot keep up with the payments anymore.,Defaulted,06-12-2021 14:42:42
+CUST31945,56,West,The interest rates are too high!,Defaulted,05-10-2022 15:48:52
+CUST39574,56,Central,I cannot keep up with the payments anymore.,On Time,05-02-2021 08:46:00
+CUST80793,47,South,I appreciate the bank's patience.,On Time,22-02-2023 22:00:51
+CUST72156,23,East,I cannot keep up with the payments anymore.,Defaulted,11-05-2024 10:19:32
+CUST18782,32,East,I appreciate the bank's patience.,On Time,26-12-2020 18:19:24
+CUST73311,25,Central,I'm frustrated with the late fees.,Defaulted,05-12-2024 10:19:35
+CUST74948,74,West,I'm trying to catch up with my payments soon.,Defaulted,11-09-2024 05:27:58
+CUST37949,30,East,I cannot keep up with the payments anymore.,Defaulted,13-02-2024 16:38:42
+CUST98270,43,West,I'm frustrated with the late fees.,On Time,03-06-2021 09:07:34
+CUST45145,46,East,I need more time to manage my finances.,On Time,25-09-2020 18:00:55
+CUST97721,48,West,I need more time to manage my finances.,Defaulted,16-01-2020 21:50:33
+CUST23319,40,North,I need more time to manage my finances.,On Time,18-12-2023 07:14:15
+CUST87756,49,Central,I'm frustrated with the late fees.,On Time,21-07-2021 06:45:39
+CUST23504,18,West,The interest rates are too high!,Defaulted,03-10-2022 23:59:58
+CUST97399,51,Central,I appreciate the bank's patience.,Defaulted,28-04-2024 17:38:31
+CUST40522,51,South,I cannot keep up with the payments anymore.,On Time,04-04-2023 04:47:16
+CUST34371,22,South,I cannot keep up with the payments anymore.,Defaulted,06-07-2024 21:43:39
+CUST29702,38,South,I cannot keep up with the payments anymore.,On Time,28-05-2024 12:14:11
+CUST62677,61,West,I'm frustrated with the late fees.,On Time,06-06-2024 13:13:57
+CUST64639,51,West,I cannot keep up with the payments anymore.,On Time,13-09-2021 12:46:03
+CUST27881,61,East,Please update me on my payment schedule.,Defaulted,10-10-2023 17:19:22
+CUST82903,61,South,I appreciate the bank's patience.,On Time,21-06-2020 11:59:17
+CUST35949,46,East,The interest rates are too high!,On Time,17-04-2022 03:43:56
+CUST94858,22,West,I have some pending payments.,On Time,17-11-2020 02:38:37
+CUST66979,24,West,I have some pending payments.,On Time,30-04-2021 05:28:01
+CUST69579,42,Central,Things are improving; I'll make a payment shortly.,On Time,22-01-2023 06:15:05
+CUST34148,26,North,Please update me on my payment schedule.,Defaulted,06-01-2023 06:37:54
+CUST62028,53,Central,I need more time to manage my finances.,Defaulted,25-09-2024 01:25:30
+CUST20662,69,East,I have some pending payments.,Defaulted,22-12-2021 12:54:52
+CUST51828,37,West,I'm frustrated with the late fees.,Defaulted,19-02-2022 14:06:07
+CUST32682,44,Central,Please update me on my payment schedule.,On Time,02-08-2024 11:12:32
+CUST86979,31,East,I cannot keep up with the payments anymore.,On Time,01-08-2023 04:57:53
+CUST70278,37,South,I'm frustrated with the late fees.,On Time,08-07-2021 16:37:24
+CUST31116,29,North,Things are improving; I'll make a payment shortly.,On Time,12-12-2020 14:38:31
+CUST87893,46,East,Things are improving; I'll make a payment shortly.,Defaulted,21-04-2021 06:50:22
+CUST77754,50,West,I'm trying to catch up with my payments soon.,On Time,25-01-2021 22:33:45
+CUST68757,26,North,I'm frustrated with the late fees.,Defaulted,07-11-2022 23:05:33
+CUST63070,42,East,I need more time to manage my finances.,On Time,04-07-2021 08:52:43
+CUST14194,45,South,The interest rates are too high!,Defaulted,01-05-2023 04:12:23
+CUST24997,27,North,I appreciate the bank's patience.,On Time,05-04-2024 04:05:07
+CUST87128,26,East,I appreciate the bank's patience.,On Time,04-06-2022 14:50:26
+CUST84019,58,West,I need more time to manage my finances.,On Time,08-04-2020 19:07:28
+CUST11973,23,South,Please update me on my payment schedule.,Defaulted,20-07-2023 09:14:52
+CUST55870,24,South,I have some pending payments.,Defaulted,09-02-2022 06:43:36
+CUST80967,68,West,I appreciate the bank's patience.,Defaulted,03-05-2020 19:55:07
+CUST30189,52,South,I'm trying to catch up with my payments soon.,Defaulted,25-01-2021 12:16:36
+CUST27822,39,Central,I cannot keep up with the payments anymore.,Defaulted,26-12-2024 00:48:30
+CUST56968,19,West,The interest rates are too high!,Defaulted,08-12-2020 10:52:23
+CUST53520,41,East,I have some pending payments.,Defaulted,20-02-2020 08:55:25
+CUST26232,44,East,I'm frustrated with the late fees.,Defaulted,18-04-2023 02:10:06
+CUST47121,50,South,I'm trying to catch up with my payments soon.,On Time,12-05-2023 16:13:18
+CUST70639,33,North,I have some pending payments.,Defaulted,06-10-2021 08:14:10
+CUST49722,41,Central,I appreciate the bank's patience.,On Time,09-04-2020 05:10:43
+CUST82472,71,South,Please update me on my payment schedule.,On Time,17-12-2020 13:31:21
+CUST12305,19,North,I'm frustrated with the late fees.,Defaulted,11-07-2023 23:55:16
+CUST72021,19,West,I have some pending payments.,Defaulted,05-09-2023 14:58:36
+CUST63776,24,South,Please update me on my payment schedule.,Defaulted,21-09-2023 21:19:48
+CUST38811,40,South,I cannot keep up with the payments anymore.,On Time,20-08-2020 22:14:35
+CUST20144,34,Central,Things are improving; I'll make a payment shortly.,Defaulted,15-12-2022 11:36:18
+CUST59430,61,East,I need more time to manage my finances.,Defaulted,12-02-2023 07:47:46
+CUST43057,70,East,I appreciate the bank's patience.,On Time,05-10-2021 02:44:13
+CUST99415,66,Central,The interest rates are too high!,On Time,07-10-2023 17:06:17
+CUST23938,36,West,Things are improving; I'll make a payment shortly.,Defaulted,24-06-2022 00:10:13
+CUST53475,49,North,Please update me on my payment schedule.,On Time,21-02-2023 04:18:50
+CUST79865,46,South,Please update me on my payment schedule.,Defaulted,21-01-2023 20:54:22
+CUST98742,37,West,I cannot keep up with the payments anymore.,On Time,04-08-2021 07:28:43
+CUST61370,41,North,I have some pending payments.,Defaulted,16-09-2023 02:48:12
+CUST44630,50,West,I appreciate the bank's patience.,On Time,17-12-2022 07:29:00
+CUST25982,22,East,I'm frustrated with the late fees.,On Time,22-03-2022 11:21:29
+CUST34985,46,North,I cannot keep up with the payments anymore.,On Time,30-08-2021 03:19:15
+CUST91718,34,North,I have some pending payments.,On Time,31-08-2020 15:36:47
+CUST71745,57,East,The interest rates are too high!,Defaulted,25-07-2022 06:14:47
+CUST24555,35,East,I have some pending payments.,On Time,15-09-2022 18:39:15
+CUST54777,72,East,I have some pending payments.,Defaulted,18-04-2021 03:31:19
+CUST58940,69,West,Things are improving; I'll make a payment shortly.,On Time,16-10-2020 03:49:25
+CUST40184,69,Central,I have some pending payments.,Defaulted,04-11-2023 09:13:05
+CUST21470,53,South,I'm trying to catch up with my payments soon.,Defaulted,03-11-2022 05:44:05
+CUST57023,50,East,The interest rates are too high!,On Time,20-01-2021 20:29:46
+CUST88413,46,Central,Things are improving; I'll make a payment shortly.,On Time,09-11-2023 14:54:55
+CUST49742,33,Central,I'm frustrated with the late fees.,Defaulted,14-11-2024 04:57:03
+CUST31205,58,East,I'm trying to catch up with my payments soon.,Defaulted,23-03-2021 11:32:00
+CUST33367,58,East,I need more time to manage my finances.,On Time,17-08-2021 12:39:32
+CUST28383,47,East,I have some pending payments.,Defaulted,25-02-2022 23:00:20
+CUST85475,44,East,I'm frustrated with the late fees.,Defaulted,11-10-2020 06:22:35
+CUST17268,56,West,The interest rates are too high!,On Time,08-06-2020 05:32:44
+CUST26783,51,East,I'm frustrated with the late fees.,On Time,29-10-2022 07:45:38
+CUST12324,67,Central,I need more time to manage my finances.,Defaulted,24-09-2020 14:03:25
+CUST72209,72,East,I cannot keep up with the payments anymore.,On Time,05-11-2021 09:24:24
+CUST71338,30,South,I appreciate the bank's patience.,On Time,02-09-2021 15:08:20
+CUST19803,19,South,I cannot keep up with the payments anymore.,Defaulted,15-02-2023 19:45:06
+CUST86511,40,South,I cannot keep up with the payments anymore.,On Time,20-01-2021 15:33:59
+CUST57688,18,East,I'm trying to catch up with my payments soon.,On Time,07-01-2024 20:24:09
+CUST24373,64,North,The interest rates are too high!,On Time,09-04-2024 21:59:53
+CUST53024,55,East,I have some pending payments.,On Time,26-02-2024 05:42:56
+CUST76682,30,West,I'm trying to catch up with my payments soon.,On Time,23-09-2023 21:38:44
+CUST62553,46,East,I'm trying to catch up with my payments soon.,Defaulted,29-11-2023 19:31:41
+CUST17388,73,South,I have some pending payments.,On Time,11-03-2022 23:49:13
+CUST47559,24,East,I appreciate the bank's patience.,Defaulted,21-02-2020 16:26:57
+CUST97396,38,North,Things are improving; I'll make a payment shortly.,On Time,03-12-2020 00:59:58
+CUST99434,18,West,I need more time to manage my finances.,On Time,21-06-2021 09:11:39
+CUST69030,38,West,Please update me on my payment schedule.,On Time,06-02-2023 15:10:01
+CUST87313,48,South,Please update me on my payment schedule.,Defaulted,20-09-2021 12:46:10
+CUST49458,24,South,I'm frustrated with the late fees.,On Time,30-11-2022 23:37:31
+CUST32786,41,South,I appreciate the bank's patience.,On Time,29-09-2021 01:28:48
+CUST13384,33,South,I have some pending payments.,On Time,15-12-2024 01:50:17
+CUST47666,34,Central,I appreciate the bank's patience.,On Time,19-12-2021 10:59:19
+CUST37586,52,South,Things are improving; I'll make a payment shortly.,On Time,27-07-2023 06:08:37
+CUST81278,53,West,The interest rates are too high!,On Time,18-10-2020 21:43:22
+CUST99242,35,Central,I appreciate the bank's patience.,Defaulted,01-09-2023 09:00:36
+CUST50005,64,South,Please update me on my payment schedule.,Defaulted,15-05-2024 18:07:10
+CUST91456,19,North,The interest rates are too high!,On Time,11-01-2024 06:36:57
+CUST82491,34,North,I appreciate the bank's patience.,On Time,26-06-2022 01:05:39
+CUST73412,59,Central,Things are improving; I'll make a payment shortly.,On Time,26-08-2021 16:04:01
+CUST67240,47,West,I have some pending payments.,On Time,21-02-2023 04:18:13
+CUST91584,47,South,I cannot keep up with the payments anymore.,Defaulted,05-12-2022 00:28:05
+CUST87892,47,West,I cannot keep up with the payments anymore.,Defaulted,01-01-2020 18:14:22
+CUST33361,35,West,The interest rates are too high!,Defaulted,09-02-2024 15:14:29
+CUST59986,25,South,I'm frustrated with the late fees.,On Time,11-02-2022 12:14:51
+CUST58087,74,North,I'm frustrated with the late fees.,On Time,29-12-2020 13:39:19
+CUST82227,36,South,I have some pending payments.,Defaulted,20-10-2022 12:18:58
+CUST28608,64,North,Things are improving; I'll make a payment shortly.,On Time,15-02-2024 22:50:54
+CUST47697,55,Central,I'm trying to catch up with my payments soon.,On Time,18-09-2021 03:46:59
+CUST82887,60,South,Things are improving; I'll make a payment shortly.,Defaulted,27-12-2023 08:36:23
+CUST24292,43,North,I appreciate the bank's patience.,On Time,06-12-2023 10:31:08
+CUST80641,56,Central,I have some pending payments.,On Time,30-10-2024 21:35:56
+CUST99554,18,East,Things are improving; I'll make a payment shortly.,Defaulted,18-02-2020 12:43:36
+CUST35217,36,West,Things are improving; I'll make a payment shortly.,On Time,14-07-2022 05:59:20
+CUST61663,29,East,I appreciate the bank's patience.,On Time,07-03-2024 23:24:22
+CUST69852,23,South,Things are improving; I'll make a payment shortly.,Defaulted,20-10-2024 23:36:53
+CUST46872,47,West,I have some pending payments.,Defaulted,21-04-2021 00:20:27
+CUST24610,32,West,Things are improving; I'll make a payment shortly.,Defaulted,15-07-2023 08:37:49
+CUST22297,24,Central,The interest rates are too high!,Defaulted,04-06-2022 18:57:00
+CUST41973,46,West,I appreciate the bank's patience.,Defaulted,18-08-2024 14:09:02
+CUST34030,38,East,I appreciate the bank's patience.,On Time,07-08-2022 21:25:28
+CUST54635,38,West,I have some pending payments.,On Time,28-04-2021 19:02:50
+CUST34325,50,East,I'm frustrated with the late fees.,Defaulted,08-01-2022 17:02:38
+CUST51450,19,North,Please update me on my payment schedule.,On Time,13-06-2021 23:41:16
+CUST35089,68,East,The interest rates are too high!,On Time,14-03-2021 18:10:44
+CUST25878,48,East,The interest rates are too high!,Defaulted,16-02-2022 09:02:11
+CUST19661,57,West,Things are improving; I'll make a payment shortly.,Defaulted,06-02-2024 23:45:29
+CUST42303,36,West,I'm trying to catch up with my payments soon.,On Time,03-01-2023 04:57:12
+CUST17268,36,South,The interest rates are too high!,Defaulted,22-12-2024 06:18:26
+CUST66022,22,North,I have some pending payments.,Defaulted,29-11-2020 12:30:58
+CUST62208,58,South,I have some pending payments.,Defaulted,09-04-2022 15:26:21
+CUST60881,31,West,I appreciate the bank's patience.,Defaulted,02-02-2021 05:06:58
+CUST61626,42,Central,I have some pending payments.,On Time,10-11-2021 22:17:14
+CUST64289,32,East,I appreciate the bank's patience.,On Time,06-06-2020 14:44:15
+CUST73138,71,North,Things are improving; I'll make a payment shortly.,Defaulted,10-07-2021 08:37:48
+CUST19294,27,North,I have some pending payments.,On Time,23-03-2023 19:33:42
+CUST82342,18,East,Please update me on my payment schedule.,On Time,12-09-2020 01:16:00
+CUST47060,36,Central,The interest rates are too high!,On Time,01-10-2023 07:17:57
+CUST51323,65,West,Things are improving; I'll make a payment shortly.,Defaulted,19-12-2021 05:10:01
+CUST37988,47,East,Please update me on my payment schedule.,On Time,09-05-2020 03:16:32
+CUST68030,46,South,I appreciate the bank's patience.,Defaulted,23-04-2021 08:03:05
+CUST12942,21,North,I cannot keep up with the payments anymore.,Defaulted,22-09-2024 16:45:18
+CUST99059,66,North,I cannot keep up with the payments anymore.,On Time,11-04-2023 16:20:33
+CUST30851,68,East,Please update me on my payment schedule.,Defaulted,04-03-2023 03:36:54
+CUST89314,32,South,Things are improving; I'll make a payment shortly.,On Time,11-12-2020 00:27:35
+CUST36274,52,South,The interest rates are too high!,Defaulted,31-01-2022 04:19:34
+CUST30389,29,South,The interest rates are too high!,On Time,12-05-2022 00:51:53
+CUST54520,34,East,I cannot keep up with the payments anymore.,On Time,20-04-2021 16:37:02
+CUST64600,20,South,I need more time to manage my finances.,Defaulted,10-01-2023 21:24:11
+CUST86812,43,Central,I'm frustrated with the late fees.,Defaulted,08-10-2020 08:26:05
+CUST39696,58,South,I need more time to manage my finances.,Defaulted,10-08-2022 02:13:46
+CUST14370,18,North,The interest rates are too high!,Defaulted,28-03-2020 18:38:24
+CUST13723,49,West,I need more time to manage my finances.,On Time,25-01-2024 03:01:07
+CUST48978,69,North,The interest rates are too high!,On Time,23-06-2023 16:34:48
+CUST12836,72,East,I'm frustrated with the late fees.,On Time,08-12-2020 15:30:40
+CUST27286,35,East,Please update me on my payment schedule.,Defaulted,29-03-2023 13:10:15
+CUST11673,18,East,I'm trying to catch up with my payments soon.,Defaulted,16-01-2024 11:02:57
+CUST39038,21,South,The interest rates are too high!,Defaulted,24-11-2023 16:39:13
+CUST66572,54,West,Things are improving; I'll make a payment shortly.,On Time,02-01-2022 01:47:18
+CUST43435,40,East,I'm frustrated with the late fees.,On Time,16-12-2022 18:37:43
+CUST13428,74,Central,The interest rates are too high!,On Time,16-05-2023 04:02:29
+CUST53860,57,East,I'm frustrated with the late fees.,On Time,18-02-2023 04:37:49
+CUST13372,43,North,Things are improving; I'll make a payment shortly.,On Time,31-05-2023 06:47:02
+CUST42177,47,North,I have some pending payments.,Defaulted,23-03-2020 17:54:53
+CUST18149,49,East,I'm trying to catch up with my payments soon.,Defaulted,29-06-2020 01:45:30
+CUST80631,38,North,I have some pending payments.,On Time,24-09-2021 20:44:03
+CUST15484,61,South,I'm frustrated with the late fees.,Defaulted,24-10-2021 04:58:19
+CUST80263,27,South,I cannot keep up with the payments anymore.,Defaulted,10-02-2020 05:53:22
+CUST68399,21,South,I'm frustrated with the late fees.,Defaulted,03-06-2020 19:08:32
+CUST28326,23,South,I appreciate the bank's patience.,On Time,23-10-2022 20:55:17
+CUST87416,66,North,Things are improving; I'll make a payment shortly.,On Time,13-04-2024 05:51:57
+CUST35935,26,South,I cannot keep up with the payments anymore.,On Time,02-09-2022 22:37:43
+CUST45808,34,North,I'm trying to catch up with my payments soon.,On Time,03-10-2023 13:31:21
+CUST48823,23,West,I'm frustrated with the late fees.,On Time,10-06-2023 19:22:57
+CUST67313,38,West,I appreciate the bank's patience.,Defaulted,16-11-2020 04:53:39
+CUST31305,43,West,I appreciate the bank's patience.,Defaulted,16-12-2020 15:28:22
+CUST51853,71,East,I cannot keep up with the payments anymore.,On Time,17-02-2020 19:05:01
+CUST10076,57,South,Things are improving; I'll make a payment shortly.,On Time,30-09-2020 19:22:13
+CUST56291,33,West,Please update me on my payment schedule.,On Time,05-09-2023 13:46:42
+CUST21167,41,West,Things are improving; I'll make a payment shortly.,On Time,26-08-2022 21:53:26
+CUST59908,60,North,I cannot keep up with the payments anymore.,On Time,13-07-2024 15:35:35
+CUST99988,29,South,I have some pending payments.,On Time,04-01-2022 13:01:25
+CUST72412,74,West,I have some pending payments.,Defaulted,03-12-2022 16:36:51
+CUST94566,37,North,I appreciate the bank's patience.,Defaulted,02-05-2023 12:57:23
+CUST10884,34,Central,The interest rates are too high!,Defaulted,14-02-2022 20:33:07
+CUST15818,34,East,Things are improving; I'll make a payment shortly.,On Time,10-01-2022 23:30:37
+CUST51021,47,West,Please update me on my payment schedule.,On Time,20-05-2022 17:22:24
+CUST91675,36,Central,I appreciate the bank's patience.,On Time,14-02-2024 17:28:59
+CUST84014,60,South,I need more time to manage my finances.,On Time,20-12-2021 05:21:49
+CUST48360,67,Central,Please update me on my payment schedule.,Defaulted,03-08-2022 18:14:38
+CUST47521,62,East,I'm trying to catch up with my payments soon.,Defaulted,10-08-2021 00:47:27
+CUST74908,49,East,I appreciate the bank's patience.,Defaulted,30-06-2020 14:26:53
+CUST24629,66,South,I'm frustrated with the late fees.,Defaulted,28-07-2024 06:59:48
+CUST28420,49,East,I'm trying to catch up with my payments soon.,On Time,22-01-2024 13:18:09
+CUST75620,68,North,Things are improving; I'll make a payment shortly.,On Time,26-12-2023 20:16:44
+CUST26866,21,North,I'm trying to catch up with my payments soon.,Defaulted,04-11-2021 03:45:14
+CUST74017,55,Central,Things are improving; I'll make a payment shortly.,Defaulted,13-04-2022 02:12:01
+CUST46287,21,Central,Things are improving; I'll make a payment shortly.,Defaulted,16-10-2024 10:14:28
+CUST55103,22,Central,Please update me on my payment schedule.,On Time,24-03-2022 01:54:57
+CUST40354,70,West,I appreciate the bank's patience.,Defaulted,12-03-2023 23:37:47
+CUST62818,71,North,Things are improving; I'll make a payment shortly.,On Time,07-06-2020 23:43:14
+CUST87159,31,East,I need more time to manage my finances.,On Time,14-01-2022 09:16:03
+CUST61787,47,South,Things are improving; I'll make a payment shortly.,Defaulted,13-12-2024 04:06:27
+CUST22860,25,Central,I cannot keep up with the payments anymore.,Defaulted,08-10-2020 05:38:50
+CUST64859,65,Central,I'm trying to catch up with my payments soon.,On Time,28-02-2023 11:51:28
+CUST86691,47,South,I cannot keep up with the payments anymore.,On Time,14-05-2024 22:05:57
+CUST14437,58,South,I'm trying to catch up with my payments soon.,Defaulted,15-10-2021 23:32:35
+CUST34711,71,West,Things are improving; I'll make a payment shortly.,On Time,06-05-2023 01:35:18
+CUST44786,61,South,I have some pending payments.,On Time,29-06-2022 02:56:18
+CUST81369,32,West,I'm frustrated with the late fees.,Defaulted,06-11-2020 12:55:58
+CUST81083,48,East,I'm trying to catch up with my payments soon.,Defaulted,01-01-2023 22:52:57
+CUST69565,43,East,Please update me on my payment schedule.,Defaulted,02-02-2023 04:31:56
+CUST71529,51,South,I'm trying to catch up with my payments soon.,Defaulted,25-03-2020 21:07:02
+CUST35472,40,West,I cannot keep up with the payments anymore.,On Time,02-04-2022 21:00:24
+CUST70257,62,North,Please update me on my payment schedule.,On Time,27-10-2022 09:15:15
+CUST68942,69,North,Please update me on my payment schedule.,Defaulted,13-12-2022 18:30:29
+CUST48805,60,West,I cannot keep up with the payments anymore.,Defaulted,20-04-2022 20:45:16
+CUST79961,56,West,I'm frustrated with the late fees.,Defaulted,04-02-2021 15:07:03
+CUST82539,42,East,I'm trying to catch up with my payments soon.,On Time,14-09-2024 19:48:37
+CUST70598,73,South,I cannot keep up with the payments anymore.,On Time,03-01-2023 15:17:09
+CUST19721,62,North,The interest rates are too high!,Defaulted,01-07-2024 06:06:27
+CUST98544,38,East,I have some pending payments.,On Time,27-03-2024 19:58:53
+CUST26757,27,West,I appreciate the bank's patience.,On Time,15-03-2020 07:36:15
+CUST55046,24,West,The interest rates are too high!,On Time,13-06-2021 18:49:59
+CUST84114,22,East,The interest rates are too high!,Defaulted,21-04-2023 01:48:57
+CUST69422,45,East,I'm frustrated with the late fees.,On Time,06-10-2020 02:04:36
+CUST15073,32,East,I appreciate the bank's patience.,Defaulted,17-10-2020 22:18:48
+CUST22614,49,East,I appreciate the bank's patience.,On Time,31-05-2024 09:32:54
+CUST57707,19,Central,I need more time to manage my finances.,On Time,12-10-2023 23:55:10
+CUST93725,71,West,The interest rates are too high!,On Time,04-08-2021 09:29:45
+CUST16203,47,Central,The interest rates are too high!,Defaulted,22-06-2021 16:26:57
+CUST54833,43,East,I'm trying to catch up with my payments soon.,Defaulted,01-11-2021 12:40:33
+CUST96162,58,Central,I have some pending payments.,Defaulted,02-03-2024 20:39:08
+CUST38762,71,South,Things are improving; I'll make a payment shortly.,On Time,07-11-2020 10:20:41
+CUST61805,48,North,I'm trying to catch up with my payments soon.,Defaulted,08-12-2023 14:20:17
+CUST79458,18,North,Please update me on my payment schedule.,On Time,14-10-2020 22:50:43
+CUST51110,63,North,I need more time to manage my finances.,On Time,13-07-2021 19:31:00
+CUST35482,54,Central,The interest rates are too high!,On Time,06-06-2024 09:56:08
+CUST42403,21,West,Please update me on my payment schedule.,On Time,31-08-2023 02:09:50
+CUST28388,47,East,The interest rates are too high!,On Time,11-02-2021 13:42:35
+CUST59900,48,South,The interest rates are too high!,On Time,27-12-2021 14:00:25
+CUST98589,35,North,I have some pending payments.,On Time,20-06-2024 06:39:55
+CUST42008,63,Central,Please update me on my payment schedule.,Defaulted,26-06-2022 09:33:46
+CUST50415,45,West,I'm frustrated with the late fees.,Defaulted,08-06-2024 05:50:21
+CUST39901,54,Central,I need more time to manage my finances.,On Time,15-11-2024 17:29:43
+CUST79853,38,South,I'm trying to catch up with my payments soon.,On Time,22-10-2022 04:20:41
+CUST37388,57,Central,Things are improving; I'll make a payment shortly.,Defaulted,10-01-2021 02:08:12
+CUST84395,65,East,The interest rates are too high!,On Time,12-03-2020 08:42:25
+CUST45964,74,West,The interest rates are too high!,On Time,03-02-2024 03:57:25
+CUST86912,28,West,Please update me on my payment schedule.,On Time,09-02-2022 19:28:33
+CUST35700,27,South,I have some pending payments.,Defaulted,21-05-2024 04:24:33
+CUST45652,38,East,I'm trying to catch up with my payments soon.,On Time,21-04-2022 04:38:45
+CUST89708,64,Central,Please update me on my payment schedule.,Defaulted,17-06-2022 12:01:25
+CUST43735,27,Central,I have some pending payments.,Defaulted,19-09-2024 21:09:48
+CUST42302,52,East,I have some pending payments.,Defaulted,01-05-2024 21:39:56
+CUST31207,72,West,I need more time to manage my finances.,Defaulted,06-03-2020 23:33:03
+CUST50717,60,South,Things are improving; I'll make a payment shortly.,Defaulted,18-03-2024 21:37:10
+CUST18178,52,Central,I cannot keep up with the payments anymore.,On Time,23-12-2020 15:40:19
+CUST28454,64,South,I cannot keep up with the payments anymore.,On Time,06-03-2024 10:15:44
+CUST14463,30,North,I'm frustrated with the late fees.,On Time,25-12-2024 18:11:30
+CUST23320,66,West,I have some pending payments.,Defaulted,29-05-2023 05:14:33
+CUST47989,33,South,I'm trying to catch up with my payments soon.,Defaulted,02-05-2021 15:54:44
+CUST16214,75,North,I appreciate the bank's patience.,Defaulted,29-12-2024 07:48:48
+CUST37175,62,West,Please update me on my payment schedule.,On Time,21-12-2024 03:12:37
+CUST77948,39,East,I need more time to manage my finances.,Defaulted,19-05-2020 14:42:15
+CUST25917,43,West,Things are improving; I'll make a payment shortly.,Defaulted,05-11-2024 18:54:25
+CUST86022,23,Central,I need more time to manage my finances.,On Time,07-08-2024 03:18:05
+CUST62889,57,North,I appreciate the bank's patience.,Defaulted,05-01-2024 04:09:22
+CUST36942,62,South,I'm frustrated with the late fees.,Defaulted,11-05-2022 12:00:00
+CUST57550,56,East,I cannot keep up with the payments anymore.,On Time,02-07-2024 15:25:43
+CUST31892,52,East,Things are improving; I'll make a payment shortly.,On Time,14-10-2024 17:55:01
+CUST81263,20,Central,I need more time to manage my finances.,Defaulted,31-05-2022 09:52:14
+CUST95298,22,North,Things are improving; I'll make a payment shortly.,On Time,19-05-2024 06:36:58
+CUST46587,41,Central,Please update me on my payment schedule.,Defaulted,14-12-2024 18:13:37
+CUST56140,36,North,Things are improving; I'll make a payment shortly.,On Time,24-03-2022 22:35:28
+CUST62704,71,South,I'm trying to catch up with my payments soon.,Defaulted,17-03-2024 02:38:59
+CUST82885,26,North,I need more time to manage my finances.,On Time,21-01-2020 01:12:56
+CUST26873,42,West,I'm frustrated with the late fees.,Defaulted,22-12-2021 12:56:15
+CUST47658,58,South,I need more time to manage my finances.,Defaulted,25-04-2022 02:27:27
+CUST60208,62,South,Things are improving; I'll make a payment shortly.,On Time,02-09-2021 09:34:40
+CUST28489,69,South,Things are improving; I'll make a payment shortly.,Defaulted,13-08-2020 17:28:13
+CUST61926,43,East,The interest rates are too high!,On Time,27-04-2020 10:19:19
+CUST88158,29,West,I'm trying to catch up with my payments soon.,On Time,05-04-2024 11:38:46
+CUST88085,71,South,Things are improving; I'll make a payment shortly.,On Time,04-10-2022 12:07:04
+CUST45261,45,North,Things are improving; I'll make a payment shortly.,On Time,07-08-2022 13:11:10
+CUST90490,62,Central,Things are improving; I'll make a payment shortly.,Defaulted,11-11-2024 16:11:52
+CUST30786,59,South,I'm frustrated with the late fees.,Defaulted,01-10-2022 12:51:12
+CUST93207,47,East,Please update me on my payment schedule.,On Time,02-01-2022 16:01:37
+CUST70769,56,Central,I'm frustrated with the late fees.,Defaulted,31-01-2022 02:08:24
+CUST32207,41,Central,Things are improving; I'll make a payment shortly.,Defaulted,24-01-2022 06:08:06
+CUST27022,24,Central,Please update me on my payment schedule.,On Time,10-05-2021 15:13:45
+CUST68727,55,East,I'm frustrated with the late fees.,Defaulted,23-01-2021 21:25:34
+CUST10719,66,West,Things are improving; I'll make a payment shortly.,On Time,17-09-2023 21:15:49
+CUST58366,71,South,I'm frustrated with the late fees.,Defaulted,14-12-2024 06:32:48
+CUST63860,18,East,The interest rates are too high!,Defaulted,21-01-2021 08:02:15
+CUST68425,64,East,I appreciate the bank's patience.,On Time,12-01-2024 01:14:38
+CUST21500,49,North,Please update me on my payment schedule.,On Time,29-05-2023 07:15:56
+CUST22182,26,North,I have some pending payments.,On Time,02-04-2023 05:47:24
+CUST31701,34,East,The interest rates are too high!,Defaulted,08-09-2023 18:32:51
+CUST84947,56,Central,I cannot keep up with the payments anymore.,Defaulted,02-06-2023 18:00:31
+CUST23014,27,South,I appreciate the bank's patience.,On Time,14-02-2022 08:25:12
+CUST45149,25,North,I cannot keep up with the payments anymore.,On Time,25-02-2024 15:06:35
+CUST88746,75,North,I need more time to manage my finances.,On Time,14-03-2021 23:12:14
+CUST26064,51,South,Please update me on my payment schedule.,On Time,31-05-2022 23:21:11
+CUST15526,65,West,I cannot keep up with the payments anymore.,On Time,10-09-2022 06:48:24
+CUST66323,28,North,Please update me on my payment schedule.,Defaulted,20-12-2023 19:16:38
+CUST24624,46,South,Things are improving; I'll make a payment shortly.,On Time,26-01-2023 08:35:43
+CUST23582,40,North,I have some pending payments.,Defaulted,24-01-2021 20:37:04
+CUST14240,75,South,Things are improving; I'll make a payment shortly.,On Time,30-05-2021 21:30:48
+CUST72918,72,South,The interest rates are too high!,On Time,03-11-2022 04:17:51
+CUST42814,38,Central,Things are improving; I'll make a payment shortly.,On Time,18-09-2020 20:15:56
+CUST90114,75,West,Please update me on my payment schedule.,On Time,02-10-2021 20:32:57
+CUST59813,46,East,I'm trying to catch up with my payments soon.,Defaulted,18-12-2022 01:40:53
+CUST41740,73,Central,I appreciate the bank's patience.,On Time,03-02-2024 02:41:49
+CUST80505,69,East,I appreciate the bank's patience.,Defaulted,30-09-2024 11:24:30
+CUST98217,60,East,I have some pending payments.,On Time,25-09-2021 23:22:46
+CUST22811,63,Central,I'm frustrated with the late fees.,Defaulted,18-10-2023 19:38:36
+CUST44790,21,North,I cannot keep up with the payments anymore.,On Time,05-04-2021 03:48:46
+CUST57602,19,East,I'm frustrated with the late fees.,On Time,12-04-2023 12:04:59
+CUST41706,52,South,I need more time to manage my finances.,On Time,29-03-2023 00:48:22
+CUST96420,40,North,I cannot keep up with the payments anymore.,Defaulted,09-09-2024 07:09:44
+CUST16408,41,East,I'm frustrated with the late fees.,Defaulted,22-07-2023 20:59:45
+CUST58238,47,Central,The interest rates are too high!,On Time,24-06-2023 07:02:35
+CUST12067,28,West,I'm trying to catch up with my payments soon.,Defaulted,31-01-2020 04:13:07
+CUST36364,63,South,The interest rates are too high!,On Time,05-07-2020 21:58:25
+CUST20688,20,East,I appreciate the bank's patience.,Defaulted,16-05-2021 23:16:27
+CUST68493,31,East,I cannot keep up with the payments anymore.,On Time,30-11-2020 16:59:31
+CUST40419,69,West,Things are improving; I'll make a payment shortly.,Defaulted,07-03-2024 02:01:49
+CUST29202,31,South,I cannot keep up with the payments anymore.,On Time,25-03-2021 08:12:33
+CUST60510,24,Central,Things are improving; I'll make a payment shortly.,On Time,17-12-2022 12:07:43
+CUST58681,51,North,The interest rates are too high!,Defaulted,26-10-2023 12:36:04
+CUST19218,36,North,I appreciate the bank's patience.,Defaulted,25-12-2022 11:34:43
+CUST34777,46,North,I have some pending payments.,Defaulted,10-05-2020 08:47:21
+CUST79087,47,South,Please update me on my payment schedule.,Defaulted,27-04-2024 14:18:19
+CUST60696,43,North,Things are improving; I'll make a payment shortly.,On Time,17-07-2022 05:13:25
+CUST50590,32,East,I'm frustrated with the late fees.,On Time,04-10-2024 23:37:28
+CUST93798,23,South,I need more time to manage my finances.,Defaulted,14-08-2021 03:57:48
+CUST47228,57,Central,I need more time to manage my finances.,On Time,21-02-2020 20:08:59
+CUST80595,46,North,I need more time to manage my finances.,Defaulted,18-06-2020 20:44:13
+CUST53554,71,East,Please update me on my payment schedule.,On Time,30-05-2023 04:09:22
+CUST16811,35,Central,I'm frustrated with the late fees.,Defaulted,20-08-2022 17:52:15
+CUST18717,61,North,Please update me on my payment schedule.,Defaulted,06-07-2022 11:55:16
+CUST80348,22,North,I appreciate the bank's patience.,On Time,07-06-2023 06:43:15
+CUST71973,62,West,I'm trying to catch up with my payments soon.,Defaulted,09-02-2023 11:12:50
+CUST68632,71,Central,Things are improving; I'll make a payment shortly.,On Time,08-06-2022 22:47:24
+CUST93823,41,West,I cannot keep up with the payments anymore.,Defaulted,04-07-2023 05:31:36
+CUST78567,74,Central,I cannot keep up with the payments anymore.,Defaulted,23-12-2024 06:59:50
+CUST88942,42,North,I need more time to manage my finances.,On Time,27-04-2022 10:23:27
+CUST54731,30,South,I need more time to manage my finances.,Defaulted,11-07-2020 15:15:43
+CUST51690,56,East,I'm trying to catch up with my payments soon.,On Time,28-09-2020 13:16:06
+CUST17300,50,East,I cannot keep up with the payments anymore.,On Time,19-02-2021 08:08:41
+CUST95271,22,East,The interest rates are too high!,Defaulted,29-04-2021 01:33:35
+CUST13257,27,South,The interest rates are too high!,Defaulted,22-12-2023 20:54:57
+CUST91426,59,Central,The interest rates are too high!,On Time,14-10-2022 11:06:00
+CUST43713,43,North,I have some pending payments.,Defaulted,02-05-2020 23:13:42
+CUST82041,32,North,I'm trying to catch up with my payments soon.,Defaulted,05-10-2023 04:44:23
+CUST22569,23,North,The interest rates are too high!,On Time,08-12-2022 22:15:48
+CUST54515,23,North,I appreciate the bank's patience.,Defaulted,30-05-2020 16:30:42
+CUST95542,74,West,I have some pending payments.,On Time,24-06-2020 02:18:58
+CUST52149,19,Central,I appreciate the bank's patience.,On Time,18-08-2024 19:12:21
+CUST79460,59,West,I'm frustrated with the late fees.,On Time,03-01-2021 14:40:57
+CUST25240,74,South,I cannot keep up with the payments anymore.,Defaulted,29-08-2022 09:16:42
+CUST25278,41,Central,I'm frustrated with the late fees.,Defaulted,15-12-2020 07:20:35
+CUST43257,62,South,I need more time to manage my finances.,On Time,03-07-2023 15:32:19
+CUST82127,72,North,I need more time to manage my finances.,Defaulted,26-11-2021 04:36:03
+CUST99547,73,South,I'm frustrated with the late fees.,On Time,29-07-2021 05:53:10
+CUST64151,34,West,I'm frustrated with the late fees.,Defaulted,25-07-2020 13:24:32
+CUST10777,22,East,I'm trying to catch up with my payments soon.,Defaulted,01-12-2021 09:56:11
+CUST16645,23,North,I cannot keep up with the payments anymore.,On Time,12-12-2020 18:47:01
+CUST72554,67,Central,I'm frustrated with the late fees.,On Time,21-10-2022 02:25:24
+CUST76094,73,South,I appreciate the bank's patience.,On Time,21-05-2022 04:09:33
+CUST40529,49,North,I have some pending payments.,Defaulted,11-04-2024 15:36:55
+CUST94795,34,East,I'm frustrated with the late fees.,Defaulted,02-02-2023 22:09:28
+CUST23252,31,East,The interest rates are too high!,Defaulted,23-05-2021 13:14:55
+CUST73556,30,South,I have some pending payments.,Defaulted,26-06-2020 10:47:30
+CUST38050,36,East,I need more time to manage my finances.,Defaulted,14-09-2020 18:03:12
+CUST67571,43,South,Please update me on my payment schedule.,On Time,19-02-2020 19:23:56
+CUST70386,72,West,I have some pending payments.,Defaulted,10-04-2021 06:31:43
+CUST45475,24,West,I appreciate the bank's patience.,Defaulted,13-11-2024 07:23:27
+CUST38761,70,North,I need more time to manage my finances.,On Time,14-10-2024 15:55:11
+CUST20431,40,South,I have some pending payments.,On Time,17-04-2021 02:33:20
+CUST88438,60,North,I'm trying to catch up with my payments soon.,Defaulted,10-08-2023 20:00:40
+CUST23811,73,North,Things are improving; I'll make a payment shortly.,On Time,08-12-2021 00:55:46
+CUST55177,58,West,I'm trying to catch up with my payments soon.,Defaulted,30-06-2021 18:33:25
+CUST93192,67,North,I have some pending payments.,On Time,12-05-2022 13:58:17
+CUST22224,22,West,I need more time to manage my finances.,Defaulted,02-06-2021 13:55:35
+CUST93638,44,Central,I appreciate the bank's patience.,Defaulted,06-06-2022 21:02:02
+CUST31017,56,South,I'm frustrated with the late fees.,On Time,11-08-2021 05:46:59
+CUST97329,52,East,I'm trying to catch up with my payments soon.,On Time,03-03-2020 21:54:58
+CUST76083,64,Central,I'm frustrated with the late fees.,Defaulted,14-10-2021 14:03:46
+CUST30965,48,South,I have some pending payments.,On Time,02-02-2023 15:41:36
+CUST35160,60,West,I'm trying to catch up with my payments soon.,Defaulted,16-03-2022 09:52:52
+CUST73852,68,Central,Please update me on my payment schedule.,On Time,30-08-2023 09:43:54
+CUST27492,53,South,Things are improving; I'll make a payment shortly.,On Time,27-12-2022 05:18:09
+CUST53399,43,South,I'm trying to catch up with my payments soon.,Defaulted,12-02-2020 01:25:38
+CUST98738,33,Central,Things are improving; I'll make a payment shortly.,Defaulted,29-08-2024 05:35:37
+CUST47922,33,East,I need more time to manage my finances.,Defaulted,11-08-2023 18:01:31
+CUST58090,33,West,Please update me on my payment schedule.,Defaulted,16-11-2024 23:14:33
+CUST92471,42,South,I need more time to manage my finances.,Defaulted,28-01-2022 06:04:25
+CUST14227,36,North,I'm frustrated with the late fees.,On Time,29-12-2023 21:01:18
+CUST48114,73,West,I appreciate the bank's patience.,On Time,10-12-2024 15:11:04
+CUST46856,39,North,I have some pending payments.,On Time,01-11-2020 16:32:53
+CUST40298,72,Central,I'm trying to catch up with my payments soon.,On Time,22-09-2023 04:57:29
+CUST43312,68,East,Things are improving; I'll make a payment shortly.,On Time,09-03-2021 00:55:13
+CUST28079,40,West,Things are improving; I'll make a payment shortly.,On Time,31-12-2020 17:06:20
+CUST65552,71,East,I cannot keep up with the payments anymore.,On Time,02-10-2020 20:43:34
+CUST51057,24,East,I need more time to manage my finances.,Defaulted,20-06-2024 10:27:24
+CUST88896,30,Central,The interest rates are too high!,On Time,12-09-2022 17:36:33
+CUST35697,39,South,Things are improving; I'll make a payment shortly.,Defaulted,14-01-2020 07:07:08
+CUST11323,56,South,I'm trying to catch up with my payments soon.,Defaulted,04-12-2020 07:50:18
+CUST55228,58,North,I have some pending payments.,On Time,20-02-2023 00:48:30
+CUST60976,36,East,I appreciate the bank's patience.,Defaulted,02-02-2021 16:49:04
+CUST69484,22,South,I have some pending payments.,On Time,03-06-2023 13:03:17
+CUST66136,31,East,I need more time to manage my finances.,On Time,03-04-2022 19:53:39
+CUST66886,35,East,Things are improving; I'll make a payment shortly.,On Time,24-11-2020 06:10:46
+CUST46914,39,Central,Things are improving; I'll make a payment shortly.,Defaulted,11-11-2021 22:43:47
+CUST91056,71,North,I cannot keep up with the payments anymore.,On Time,09-10-2021 15:51:03
+CUST46729,62,West,I appreciate the bank's patience.,Defaulted,21-08-2021 12:36:06
+CUST91189,53,West,Please update me on my payment schedule.,Defaulted,25-07-2023 14:45:37
+CUST54539,56,Central,I appreciate the bank's patience.,Defaulted,08-05-2023 14:16:49
+CUST63852,24,South,The interest rates are too high!,Defaulted,06-05-2022 03:33:03
+CUST89582,21,Central,Things are improving; I'll make a payment shortly.,Defaulted,06-06-2020 16:41:23
+CUST79873,51,North,I appreciate the bank's patience.,Defaulted,03-10-2022 19:42:15
+CUST29093,25,West,I appreciate the bank's patience.,Defaulted,21-11-2021 03:24:43
+CUST25784,61,South,I have some pending payments.,Defaulted,23-12-2020 23:39:40
+CUST71991,71,Central,I'm frustrated with the late fees.,Defaulted,14-04-2020 21:34:34
+CUST28689,50,East,I have some pending payments.,On Time,08-02-2022 16:20:56
+CUST89461,34,North,I appreciate the bank's patience.,On Time,18-07-2023 13:22:42
+CUST16609,37,South,I have some pending payments.,On Time,06-04-2023 04:06:48
+CUST76448,65,North,I'm trying to catch up with my payments soon.,Defaulted,05-03-2022 16:48:57
+CUST21340,48,North,I'm frustrated with the late fees.,On Time,17-11-2024 11:52:13
+CUST23433,22,South,I'm trying to catch up with my payments soon.,Defaulted,08-02-2021 00:23:07
+CUST99139,34,North,I have some pending payments.,Defaulted,10-10-2021 07:04:58
+CUST99483,71,Central,The interest rates are too high!,Defaulted,12-04-2020 23:33:08
+CUST14266,64,Central,Things are improving; I'll make a payment shortly.,On Time,23-06-2023 21:04:58
+CUST80401,63,Central,I cannot keep up with the payments anymore.,Defaulted,29-05-2021 08:06:38
+CUST28769,52,East,Please update me on my payment schedule.,Defaulted,18-07-2023 03:19:27
+CUST91325,30,South,Please update me on my payment schedule.,Defaulted,02-02-2023 05:05:59
+CUST17712,21,North,Things are improving; I'll make a payment shortly.,Defaulted,27-06-2020 00:00:28
+CUST68573,66,Central,I'm trying to catch up with my payments soon.,Defaulted,06-04-2021 13:05:37
+CUST50369,60,West,Please update me on my payment schedule.,Defaulted,12-03-2022 20:24:03
+CUST92852,31,Central,I cannot keep up with the payments anymore.,Defaulted,19-03-2024 17:50:12
+CUST86277,51,North,I have some pending payments.,Defaulted,10-09-2021 16:57:08
+CUST26204,28,Central,I cannot keep up with the payments anymore.,On Time,15-02-2020 07:20:56
+CUST77151,37,North,I cannot keep up with the payments anymore.,Defaulted,18-02-2023 05:25:36
+CUST56842,52,Central,I need more time to manage my finances.,On Time,17-09-2021 16:59:51
+CUST67190,50,Central,I'm trying to catch up with my payments soon.,On Time,08-06-2024 17:02:11
+CUST61459,21,North,I need more time to manage my finances.,Defaulted,17-06-2021 00:12:33
+CUST80419,36,Central,I have some pending payments.,On Time,25-07-2020 11:31:06
+CUST40510,40,North,I'm trying to catch up with my payments soon.,Defaulted,22-02-2022 08:50:12
+CUST80056,63,East,The interest rates are too high!,Defaulted,15-05-2020 16:56:12
+CUST65537,32,Central,I have some pending payments.,Defaulted,23-09-2021 01:16:09
+CUST40159,48,East,I'm trying to catch up with my payments soon.,On Time,15-08-2021 19:55:19
+CUST26504,39,Central,I'm trying to catch up with my payments soon.,On Time,31-01-2023 13:18:46
+CUST20094,52,South,I'm trying to catch up with my payments soon.,On Time,03-07-2024 07:27:41
+CUST28773,27,West,I need more time to manage my finances.,On Time,15-03-2021 18:45:41
+CUST13498,27,East,I need more time to manage my finances.,Defaulted,28-02-2022 07:35:59
+CUST28480,51,East,Please update me on my payment schedule.,On Time,20-09-2021 23:35:14
+CUST76018,59,Central,I need more time to manage my finances.,On Time,27-07-2024 02:53:29
+CUST99033,37,Central,I cannot keep up with the payments anymore.,Defaulted,20-01-2023 08:14:50
+CUST73330,52,North,I need more time to manage my finances.,On Time,24-10-2024 22:13:52
+CUST74830,61,South,Things are improving; I'll make a payment shortly.,Defaulted,13-01-2021 04:16:29
+CUST84279,48,West,Please update me on my payment schedule.,On Time,16-01-2023 08:26:54
+CUST54648,50,South,I appreciate the bank's patience.,On Time,03-06-2021 20:37:24
+CUST74808,55,South,I have some pending payments.,Defaulted,13-12-2023 01:10:46
+CUST72733,28,Central,I'm frustrated with the late fees.,Defaulted,08-02-2021 03:59:37
+CUST70039,72,East,The interest rates are too high!,Defaulted,18-12-2021 00:07:29
+CUST46448,26,South,I have some pending payments.,On Time,29-09-2020 21:23:04
+CUST27723,33,West,I appreciate the bank's patience.,Defaulted,08-07-2022 12:20:12
+CUST30744,26,North,I appreciate the bank's patience.,Defaulted,12-12-2020 09:23:50
+CUST18650,27,North,Things are improving; I'll make a payment shortly.,Defaulted,04-03-2022 04:09:03
+CUST61546,69,East,I appreciate the bank's patience.,Defaulted,28-01-2024 20:59:00
+CUST37517,29,South,Things are improving; I'll make a payment shortly.,On Time,20-07-2023 13:29:35
+CUST61125,26,West,I appreciate the bank's patience.,On Time,08-01-2021 02:04:28
+CUST69653,54,East,The interest rates are too high!,On Time,30-06-2020 15:14:40
+CUST86953,61,East,I need more time to manage my finances.,Defaulted,23-12-2021 09:28:43
+CUST33424,54,West,I have some pending payments.,On Time,30-05-2022 17:21:26
+CUST32684,39,West,I have some pending payments.,Defaulted,27-09-2022 11:39:19
+CUST71556,46,West,Things are improving; I'll make a payment shortly.,Defaulted,25-09-2024 15:50:45
+CUST78234,73,North,Please update me on my payment schedule.,Defaulted,03-12-2020 09:05:27
+CUST63417,64,South,The interest rates are too high!,Defaulted,05-02-2022 16:30:12
+CUST27592,56,North,I'm frustrated with the late fees.,On Time,20-06-2022 18:23:24
+CUST59906,43,West,I need more time to manage my finances.,Defaulted,29-07-2022 10:50:53
+CUST85818,20,South,I'm trying to catch up with my payments soon.,On Time,06-05-2020 08:28:21
+CUST48912,67,Central,I'm frustrated with the late fees.,On Time,27-04-2023 10:35:16
+CUST44302,54,Central,I have some pending payments.,On Time,03-04-2021 17:50:17
+CUST11038,39,North,Please update me on my payment schedule.,Defaulted,28-10-2024 05:45:38
+CUST47266,32,South,I have some pending payments.,Defaulted,25-03-2022 00:04:42
+CUST42196,49,Central,Things are improving; I'll make a payment shortly.,Defaulted,11-04-2021 12:42:53
+CUST86591,42,West,I have some pending payments.,On Time,01-09-2024 19:05:29
+CUST98509,40,Central,Things are improving; I'll make a payment shortly.,Defaulted,01-11-2022 15:17:37
+CUST90744,71,West,I appreciate the bank's patience.,Defaulted,01-04-2023 10:04:16
+CUST74207,36,East,I'm frustrated with the late fees.,Defaulted,11-11-2022 19:17:20
+CUST98864,57,Central,The interest rates are too high!,Defaulted,07-09-2020 10:21:10
+CUST16768,56,North,I'm trying to catch up with my payments soon.,On Time,24-12-2024 15:19:15
+CUST38856,33,West,The interest rates are too high!,Defaulted,04-08-2022 19:49:28
+CUST55398,54,East,I need more time to manage my finances.,Defaulted,03-01-2020 18:56:03
+CUST25268,40,East,I appreciate the bank's patience.,Defaulted,03-12-2021 01:18:33
+CUST90700,21,West,I need more time to manage my finances.,On Time,29-05-2024 03:04:17
+CUST97885,73,West,I'm trying to catch up with my payments soon.,On Time,01-07-2021 20:52:29
+CUST11950,24,South,Please update me on my payment schedule.,Defaulted,19-05-2022 13:47:02
+CUST58900,55,West,Things are improving; I'll make a payment shortly.,Defaulted,11-11-2022 05:08:11
+CUST58644,37,North,I cannot keep up with the payments anymore.,On Time,15-10-2020 04:08:18
+CUST35856,55,Central,Things are improving; I'll make a payment shortly.,Defaulted,13-02-2021 01:05:13
+CUST98089,50,East,I cannot keep up with the payments anymore.,Defaulted,17-09-2021 08:02:21
+CUST78538,53,West,I need more time to manage my finances.,Defaulted,04-03-2024 03:06:40
+CUST71384,30,West,I'm frustrated with the late fees.,On Time,29-12-2021 02:38:10
+CUST64309,39,North,I need more time to manage my finances.,Defaulted,20-01-2024 05:31:16
+CUST67682,45,Central,I'm frustrated with the late fees.,Defaulted,30-12-2020 00:45:08
+CUST21606,35,South,I need more time to manage my finances.,On Time,07-12-2023 07:45:25
+CUST81580,60,South,Things are improving; I'll make a payment shortly.,On Time,25-09-2022 05:14:15
+CUST12796,18,South,The interest rates are too high!,On Time,27-04-2020 12:22:55
+CUST58202,27,North,I appreciate the bank's patience.,On Time,13-02-2023 19:49:28
+CUST34946,41,Central,I need more time to manage my finances.,Defaulted,10-04-2020 01:30:16
+CUST91907,27,North,I have some pending payments.,On Time,10-08-2022 12:29:35
+CUST31799,22,West,I cannot keep up with the payments anymore.,On Time,31-05-2020 06:34:16
+CUST38582,36,East,Things are improving; I'll make a payment shortly.,On Time,11-01-2023 01:50:10
+CUST82427,49,Central,I'm trying to catch up with my payments soon.,On Time,10-03-2022 12:34:05
+CUST61924,58,East,I need more time to manage my finances.,On Time,03-05-2024 23:12:59
+CUST16307,58,West,The interest rates are too high!,On Time,10-06-2023 15:55:34
+CUST73133,53,North,I have some pending payments.,Defaulted,17-04-2023 11:42:46
+CUST45709,41,Central,I'm trying to catch up with my payments soon.,On Time,01-07-2023 16:19:43
+CUST63090,32,West,I'm trying to catch up with my payments soon.,On Time,12-08-2021 18:56:17
+CUST42523,61,Central,I'm trying to catch up with my payments soon.,On Time,09-04-2020 21:48:15
+CUST77413,58,South,I appreciate the bank's patience.,Defaulted,20-06-2020 02:32:34
+CUST97621,57,East,I appreciate the bank's patience.,On Time,19-06-2024 09:12:21
+CUST49429,33,Central,I appreciate the bank's patience.,Defaulted,21-07-2020 02:25:01
+CUST95841,54,East,Things are improving; I'll make a payment shortly.,On Time,05-08-2023 09:37:09
+CUST81720,35,North,Things are improving; I'll make a payment shortly.,Defaulted,07-03-2023 14:11:16
+CUST50865,60,South,The interest rates are too high!,Defaulted,30-11-2023 09:49:18
+CUST84800,56,West,I need more time to manage my finances.,Defaulted,16-01-2022 06:46:42
+CUST37535,36,North,I'm trying to catch up with my payments soon.,Defaulted,08-12-2020 14:06:56
+CUST53602,20,East,I appreciate the bank's patience.,On Time,13-01-2020 11:06:44
+CUST34642,60,South,I have some pending payments.,Defaulted,05-05-2023 04:08:19
+CUST60027,60,Central,I'm trying to catch up with my payments soon.,Defaulted,15-11-2020 23:53:58
+CUST62580,75,Central,I'm frustrated with the late fees.,Defaulted,07-04-2022 18:01:29
+CUST94053,62,Central,Things are improving; I'll make a payment shortly.,On Time,08-02-2024 15:49:56
+CUST35067,38,Central,I appreciate the bank's patience.,Defaulted,12-10-2022 10:23:36
+CUST66745,65,East,I cannot keep up with the payments anymore.,On Time,11-03-2022 01:38:45
+CUST33838,53,South,I cannot keep up with the payments anymore.,On Time,10-04-2022 19:07:38
+CUST13680,39,South,I have some pending payments.,On Time,22-05-2020 14:32:06
+CUST49442,25,West,Things are improving; I'll make a payment shortly.,Defaulted,28-05-2021 06:52:20
+CUST24961,46,Central,I cannot keep up with the payments anymore.,On Time,24-05-2023 00:44:58
+CUST60050,22,North,I have some pending payments.,Defaulted,06-12-2022 08:37:06
+CUST53670,74,East,I need more time to manage my finances.,Defaulted,11-10-2020 09:20:36
+CUST39348,39,North,I need more time to manage my finances.,On Time,03-05-2022 08:49:53
+CUST19045,54,North,I'm frustrated with the late fees.,Defaulted,09-04-2024 07:03:31
+CUST58750,58,West,Please update me on my payment schedule.,On Time,01-06-2021 21:18:38
+CUST50090,27,West,I appreciate the bank's patience.,Defaulted,25-03-2020 09:05:42
+CUST45944,60,West,Please update me on my payment schedule.,Defaulted,05-10-2022 20:47:07
+CUST45638,68,North,I'm trying to catch up with my payments soon.,Defaulted,21-11-2024 03:05:32
+CUST53404,31,South,I have some pending payments.,On Time,08-07-2020 11:18:59
+CUST15379,18,South,I'm trying to catch up with my payments soon.,On Time,19-10-2021 12:51:57
+CUST69114,32,North,Please update me on my payment schedule.,On Time,16-09-2021 22:39:41
+CUST15552,25,West,I'm trying to catch up with my payments soon.,Defaulted,09-10-2021 09:04:07
+CUST34795,48,Central,I cannot keep up with the payments anymore.,Defaulted,02-12-2020 05:38:30
+CUST67432,47,Central,The interest rates are too high!,On Time,14-09-2022 10:26:04
+CUST16002,31,West,I appreciate the bank's patience.,On Time,02-11-2022 09:16:28
+CUST21710,44,West,Things are improving; I'll make a payment shortly.,On Time,22-11-2022 22:05:40
+CUST39232,51,West,The interest rates are too high!,On Time,12-12-2024 03:49:58
+CUST37198,60,Central,I have some pending payments.,Defaulted,19-02-2024 17:12:51
+CUST74604,18,South,I'm frustrated with the late fees.,On Time,25-10-2024 11:23:45
+CUST46173,67,South,I need more time to manage my finances.,Defaulted,16-02-2021 12:06:57
+CUST71596,66,Central,I'm frustrated with the late fees.,On Time,07-09-2022 11:46:22
+CUST70920,72,West,I need more time to manage my finances.,Defaulted,17-10-2024 05:53:15
+CUST44440,56,Central,I'm trying to catch up with my payments soon.,On Time,01-01-2020 11:19:59
+CUST21953,37,Central,I appreciate the bank's patience.,On Time,18-08-2024 03:51:43
+CUST67122,52,East,I'm frustrated with the late fees.,On Time,28-09-2021 01:42:06
+CUST71056,55,North,I cannot keep up with the payments anymore.,On Time,12-11-2022 23:03:06
+CUST76440,36,West,I cannot keep up with the payments anymore.,On Time,05-07-2022 22:33:15
+CUST84231,33,North,I'm frustrated with the late fees.,Defaulted,20-07-2020 22:52:47
+CUST45088,48,East,Please update me on my payment schedule.,Defaulted,11-02-2024 02:22:54
+CUST66959,20,West,Please update me on my payment schedule.,Defaulted,10-02-2023 16:29:57
+CUST31611,40,South,I need more time to manage my finances.,Defaulted,10-05-2022 05:18:13
+CUST25688,59,North,I cannot keep up with the payments anymore.,Defaulted,26-07-2022 04:20:03
+CUST81879,22,East,Please update me on my payment schedule.,Defaulted,15-11-2022 17:23:13
+CUST82511,22,East,I appreciate the bank's patience.,On Time,13-09-2021 13:41:09
+CUST64328,52,West,I cannot keep up with the payments anymore.,On Time,04-05-2021 05:25:39
+CUST63795,26,South,I appreciate the bank's patience.,On Time,12-10-2022 08:08:08
+CUST89935,46,East,The interest rates are too high!,On Time,27-01-2023 13:36:48
+CUST17367,47,South,I have some pending payments.,On Time,10-03-2024 09:33:24
+CUST24600,44,South,I need more time to manage my finances.,Defaulted,24-10-2020 05:50:01
+CUST39895,47,West,I'm trying to catch up with my payments soon.,Defaulted,23-03-2024 21:00:02
+CUST72698,42,East,Things are improving; I'll make a payment shortly.,On Time,20-01-2024 16:53:46
+CUST25047,56,North,I need more time to manage my finances.,Defaulted,06-09-2022 06:36:22
+CUST45112,54,Central,I'm frustrated with the late fees.,On Time,25-02-2022 07:17:25
+CUST66114,19,West,I have some pending payments.,Defaulted,24-05-2020 20:24:55
+CUST77107,57,East,The interest rates are too high!,On Time,08-10-2024 17:07:22
+CUST30202,54,West,The interest rates are too high!,On Time,14-02-2021 16:39:14
+CUST66687,39,West,I appreciate the bank's patience.,On Time,01-08-2024 08:13:23
+CUST90062,51,South,The interest rates are too high!,Defaulted,12-09-2023 22:58:25
+CUST30824,46,Central,I cannot keep up with the payments anymore.,On Time,18-05-2023 21:46:03
+CUST53052,64,South,I'm trying to catch up with my payments soon.,Defaulted,05-03-2023 08:45:28
+CUST72323,63,West,Please update me on my payment schedule.,On Time,09-09-2020 21:20:49
+CUST65695,45,Central,I cannot keep up with the payments anymore.,On Time,26-03-2020 19:20:13
+CUST20383,74,Central,I cannot keep up with the payments anymore.,On Time,22-10-2023 00:25:30
+CUST56349,54,East,Please update me on my payment schedule.,On Time,08-02-2022 08:42:11
+CUST96538,52,South,The interest rates are too high!,On Time,22-09-2020 04:19:08
+CUST78290,55,East,Please update me on my payment schedule.,On Time,30-09-2020 19:30:49
+CUST22968,55,Central,Please update me on my payment schedule.,Defaulted,29-08-2021 12:38:16
+CUST12902,39,Central,I cannot keep up with the payments anymore.,On Time,03-07-2023 00:04:41
+CUST31658,23,West,The interest rates are too high!,On Time,17-09-2021 13:36:38
+CUST85197,57,East,I need more time to manage my finances.,On Time,04-03-2020 03:02:25
+CUST43126,40,North,I need more time to manage my finances.,Defaulted,17-02-2023 15:44:54
+CUST60952,35,South,I cannot keep up with the payments anymore.,Defaulted,15-12-2021 22:31:15
+CUST23520,72,South,I need more time to manage my finances.,Defaulted,08-09-2022 14:04:09
+CUST36234,25,South,I appreciate the bank's patience.,On Time,25-02-2022 14:18:45
+CUST48254,26,North,Things are improving; I'll make a payment shortly.,On Time,25-11-2023 11:47:13
+CUST52834,64,South,I cannot keep up with the payments anymore.,Defaulted,23-12-2023 22:46:48
+CUST95552,41,Central,I'm trying to catch up with my payments soon.,Defaulted,08-09-2020 04:16:36
+CUST57983,40,South,Things are improving; I'll make a payment shortly.,On Time,25-01-2024 23:58:14
+CUST38401,70,North,Things are improving; I'll make a payment shortly.,On Time,26-02-2020 22:04:45
+CUST44310,74,East,The interest rates are too high!,On Time,13-08-2024 17:40:50
+CUST77443,69,West,I'm trying to catch up with my payments soon.,On Time,14-10-2024 15:45:22
+CUST24162,38,North,I cannot keep up with the payments anymore.,On Time,15-08-2021 09:06:30
+CUST69869,30,West,I cannot keep up with the payments anymore.,Defaulted,25-06-2022 05:03:21
+CUST94857,22,East,I'm frustrated with the late fees.,On Time,07-11-2024 12:28:38
+CUST53422,68,Central,The interest rates are too high!,Defaulted,08-01-2024 08:22:52
+CUST11750,67,South,I need more time to manage my finances.,On Time,25-08-2021 18:17:09
+CUST58856,73,South,I need more time to manage my finances.,Defaulted,30-05-2020 07:27:47
+CUST95947,49,Central,I'm frustrated with the late fees.,Defaulted,26-02-2022 20:20:50
+CUST84679,43,East,I appreciate the bank's patience.,Defaulted,22-10-2021 03:00:50
+CUST70385,50,North,I'm frustrated with the late fees.,On Time,15-03-2021 04:00:42
+CUST80706,62,North,I'm trying to catch up with my payments soon.,On Time,27-09-2020 15:28:50
+CUST63853,44,East,I'm frustrated with the late fees.,On Time,21-01-2022 16:48:36
+CUST58998,30,West,I'm trying to catch up with my payments soon.,Defaulted,27-07-2024 16:35:40
+CUST70045,44,Central,I need more time to manage my finances.,On Time,28-01-2021 19:44:37
+CUST25584,58,Central,The interest rates are too high!,Defaulted,11-01-2021 08:32:47
+CUST50450,44,West,I appreciate the bank's patience.,On Time,05-04-2024 02:49:24
+CUST64079,40,North,Please update me on my payment schedule.,Defaulted,16-02-2023 01:27:06
+CUST93123,38,South,Things are improving; I'll make a payment shortly.,On Time,14-03-2021 15:29:49
+CUST18061,54,East,Please update me on my payment schedule.,On Time,08-06-2022 05:16:09
+CUST76042,48,North,Things are improving; I'll make a payment shortly.,On Time,05-08-2024 03:47:29
+CUST42061,43,Central,I'm trying to catch up with my payments soon.,Defaulted,12-05-2023 07:11:37
+CUST11505,62,East,I cannot keep up with the payments anymore.,Defaulted,08-02-2024 22:06:17
+CUST37952,32,North,I'm trying to catch up with my payments soon.,Defaulted,27-07-2021 07:45:02
+CUST45535,18,North,The interest rates are too high!,On Time,30-04-2021 05:32:04
+CUST14294,31,East,I appreciate the bank's patience.,Defaulted,12-04-2021 03:34:12
+CUST60821,45,Central,I have some pending payments.,On Time,16-10-2020 14:32:21
+CUST44797,63,South,Please update me on my payment schedule.,On Time,17-06-2023 07:56:26
+CUST31086,67,West,I'm frustrated with the late fees.,Defaulted,28-06-2023 20:49:18
+CUST63733,74,Central,I cannot keep up with the payments anymore.,Defaulted,01-03-2023 03:05:49
+CUST91273,36,Central,I'm frustrated with the late fees.,On Time,05-10-2020 14:36:40
+CUST50776,68,East,I have some pending payments.,Defaulted,29-02-2024 20:26:59
+CUST80266,74,South,I'm trying to catch up with my payments soon.,Defaulted,07-04-2023 21:08:09
+CUST22490,67,West,I need more time to manage my finances.,Defaulted,24-12-2021 06:40:10
+CUST27622,73,South,I cannot keep up with the payments anymore.,On Time,08-11-2024 20:36:10
+CUST38440,41,Central,Things are improving; I'll make a payment shortly.,On Time,29-05-2020 00:13:50
+CUST49602,73,East,I have some pending payments.,Defaulted,04-10-2020 10:24:49
+CUST69358,35,West,I need more time to manage my finances.,Defaulted,27-08-2022 01:35:56
+CUST56969,49,East,I'm trying to catch up with my payments soon.,Defaulted,14-02-2022 00:10:00
+CUST77113,73,Central,Things are improving; I'll make a payment shortly.,On Time,24-06-2023 04:20:37
+CUST95163,19,South,I'm trying to catch up with my payments soon.,Defaulted,20-05-2023 15:26:43
+CUST54820,57,East,Things are improving; I'll make a payment shortly.,On Time,16-02-2021 16:00:42
+CUST44064,75,West,The interest rates are too high!,On Time,16-04-2021 01:28:05
+CUST63014,19,South,I have some pending payments.,On Time,30-01-2021 00:06:50
+CUST22156,44,Central,The interest rates are too high!,On Time,29-10-2023 22:35:29
+CUST54713,70,Central,I need more time to manage my finances.,On Time,27-06-2021 21:26:57
+CUST97773,48,South,I'm trying to catch up with my payments soon.,On Time,12-08-2021 09:25:58
+CUST58677,65,East,I need more time to manage my finances.,On Time,27-06-2022 20:42:10
+CUST60951,24,South,I cannot keep up with the payments anymore.,Defaulted,08-07-2024 04:11:44
+CUST16377,68,East,I cannot keep up with the payments anymore.,On Time,28-05-2021 07:26:52
+CUST85246,26,North,The interest rates are too high!,On Time,31-12-2021 11:14:18
+CUST69161,51,West,Please update me on my payment schedule.,On Time,30-03-2020 06:27:08
+CUST10905,54,West,Things are improving; I'll make a payment shortly.,On Time,15-06-2020 02:48:20
+CUST67717,49,South,The interest rates are too high!,Defaulted,31-07-2020 14:30:29
+CUST13190,41,West,I have some pending payments.,Defaulted,10-05-2023 09:00:40
+CUST46681,40,West,I cannot keep up with the payments anymore.,On Time,21-11-2023 22:27:20
+CUST53138,63,Central,The interest rates are too high!,Defaulted,28-01-2024 16:45:31
+CUST54271,51,South,I'm trying to catch up with my payments soon.,Defaulted,24-11-2021 01:19:35
+CUST80983,74,Central,I cannot keep up with the payments anymore.,Defaulted,19-02-2021 02:32:35
+CUST51858,50,North,Things are improving; I'll make a payment shortly.,Defaulted,19-10-2023 08:48:21
+CUST89166,47,Central,The interest rates are too high!,Defaulted,18-05-2024 16:31:13
+CUST47179,30,Central,I appreciate the bank's patience.,On Time,09-07-2021 14:09:04
+CUST58432,40,East,I need more time to manage my finances.,Defaulted,05-02-2021 10:13:52
+CUST92257,49,Central,I have some pending payments.,On Time,21-06-2022 13:41:39
+CUST32739,52,East,I need more time to manage my finances.,Defaulted,03-02-2021 14:31:21
+CUST30624,68,Central,Things are improving; I'll make a payment shortly.,On Time,07-07-2024 03:51:10
+CUST71417,22,Central,Please update me on my payment schedule.,On Time,06-05-2020 08:09:31
+CUST42005,43,West,I'm trying to catch up with my payments soon.,Defaulted,14-04-2023 21:40:56
+CUST82421,65,South,The interest rates are too high!,Defaulted,13-07-2024 22:25:09
+CUST59892,50,West,I'm frustrated with the late fees.,On Time,02-01-2020 05:47:45
+CUST17551,38,Central,I'm trying to catch up with my payments soon.,On Time,17-11-2021 18:58:38
+CUST32184,44,Central,I have some pending payments.,Defaulted,04-09-2024 05:52:49
+CUST90569,18,North,I'm frustrated with the late fees.,On Time,23-07-2020 04:23:32
+CUST36255,67,West,Please update me on my payment schedule.,On Time,28-08-2020 05:40:46
+CUST53093,45,Central,I have some pending payments.,On Time,09-12-2023 16:43:13
+CUST49957,55,South,I appreciate the bank's patience.,On Time,13-05-2021 19:28:37
+CUST80784,36,Central,Please update me on my payment schedule.,On Time,31-10-2022 07:26:13
+CUST72403,43,West,Things are improving; I'll make a payment shortly.,Defaulted,04-07-2023 04:14:06
+CUST62044,62,Central,Things are improving; I'll make a payment shortly.,Defaulted,12-09-2020 06:03:28
+CUST33839,23,North,I appreciate the bank's patience.,On Time,07-11-2022 08:30:19
+CUST89276,22,North,I have some pending payments.,On Time,18-06-2024 21:28:39
+CUST79824,34,West,Please update me on my payment schedule.,On Time,26-11-2021 01:40:59
+CUST46425,43,Central,I have some pending payments.,Defaulted,02-08-2021 23:44:52
+CUST58918,73,South,I'm frustrated with the late fees.,On Time,01-10-2021 03:17:57
+CUST43294,65,Central,I need more time to manage my finances.,Defaulted,14-12-2023 19:54:30
+CUST99485,28,Central,I have some pending payments.,Defaulted,15-12-2020 13:51:22
+CUST94352,33,South,I'm trying to catch up with my payments soon.,On Time,11-08-2023 22:39:14
+CUST13418,22,North,I'm frustrated with the late fees.,On Time,25-09-2021 09:58:11
+CUST37146,57,West,I cannot keep up with the payments anymore.,Defaulted,06-08-2020 16:04:51
+CUST23059,61,North,I'm trying to catch up with my payments soon.,Defaulted,09-07-2023 17:25:58
+CUST73557,35,North,I'm trying to catch up with my payments soon.,Defaulted,25-11-2023 16:43:28
+CUST40876,46,East,I cannot keep up with the payments anymore.,On Time,23-03-2020 10:25:20
+CUST24283,43,West,I'm frustrated with the late fees.,On Time,11-05-2021 02:05:28
+CUST96110,21,North,I need more time to manage my finances.,On Time,27-04-2021 11:53:48
+CUST95431,66,East,The interest rates are too high!,Defaulted,14-05-2020 21:13:31
+CUST34385,62,West,I need more time to manage my finances.,On Time,22-10-2024 07:09:04
+CUST85328,51,East,I'm trying to catch up with my payments soon.,Defaulted,04-03-2024 19:26:31
+CUST28863,67,South,Things are improving; I'll make a payment shortly.,On Time,25-11-2024 22:04:05
+CUST27987,68,West,I need more time to manage my finances.,Defaulted,07-02-2023 09:40:37
+CUST44021,66,North,I have some pending payments.,Defaulted,19-10-2024 12:34:45
+CUST31535,45,East,Please update me on my payment schedule.,Defaulted,28-07-2020 17:20:31
